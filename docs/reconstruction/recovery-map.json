@@ -1,0 +1,488 @@
+{
+  "sourceManifestSha256": "7ec78b1751c3d2c077ceba977f6133a7cea89f0e755b0a1bd724b7b8fd054bca",
+  "modules": {
+    "de-BjleKp1j.js": "locales/de.js",
+    "es-DXc-vWaP.js": "locales/es.js",
+    "fr-fnbXGytW.js": "locales/fr.js",
+    "he-DxodrnLp.js": "locales/he.js",
+    "hi-BA7shazM.js": "locales/hi.js",
+    "id-CNsWI0r3.js": "locales/id.js",
+    "index-GGrOCNGj.js": "localization.js",
+    "it-CS9fNRw1.js": "locales/it.js",
+    "ja-C33ou61z.js": "locales/ja.js",
+    "kit-DXbMhk_I.js": "models.js",
+    "ko-prcWXKny.js": "locales/ko.js",
+    "main-Bvl_zo-E.js": "app.js",
+    "pt-DAdBr9jW.js": "locales/pt.js",
+    "stage-QLKhHYHN.js": "scene.js",
+    "thumbs-DPauGRHu.js": "thumbnails.js",
+    "tr-Du5Em3hV.js": "locales/tr.js",
+    "zh-DawrnNnG.js": "locales/zh.js"
+  },
+  "extractions": {
+    "l": {
+      "file": "lesson-data.js",
+      "exported": "boardSpecifications",
+      "originalAstSha256": "e1a3b15174cc51ac8167599837296cd159d965490c89dc1812bd6b3d74b339e1"
+    },
+    "u": {
+      "file": "lesson-data.js",
+      "exported": "ledColourControl",
+      "originalAstSha256": "5d931ffd8baa17b964fda66c42cf123c36bbf21569604839bc91473ae8652dca"
+    },
+    "d": {
+      "file": "lesson-data.js",
+      "exported": "obstacleControls",
+      "originalAstSha256": "0fd3bfb7910510324bcf49b9c134d82a73c442f755f81276000cd73884f63894"
+    },
+    "f": {
+      "file": "lesson-data.js",
+      "exported": "colourPresets",
+      "originalAstSha256": "cd9425a0a782af470f0fc857806ce23d8d720e4ddff24f5bd9ce3d66e1da92fb"
+    },
+    "p": {
+      "file": "lesson-data.js",
+      "exported": "noteFrequencies",
+      "originalAstSha256": "5dac91ec77d61a7afd135301951cf4316c55873d73601d4cef215ea5721baa56"
+    },
+    "m": {
+      "file": "lesson-data.js",
+      "exported": "pianoMelodies",
+      "originalAstSha256": "4a20e7a82f9f559403020be3898a0bbdb1e58c3f5c7b2ba22b4d8c974be2ad7a"
+    },
+    "h": {
+      "file": "lesson-data.js",
+      "exported": "formatArrayRows",
+      "originalAstSha256": "6353e1b31e596744a74b1b31b23b72c117aa1c910a12ad6e80293e94f24886fd"
+    },
+    "ee": {
+      "file": "lesson-data.js",
+      "exported": "lessons",
+      "originalAstSha256": "22b6acb5f7e6e30b44b65ae9fc68324dfad4b62d3cf9b80856d11beb438e6c8c"
+    },
+    "ot": {
+      "file": "signals.js",
+      "exported": "powerPins",
+      "originalAstSha256": "4c87d3feac0c91196e26b7e541c19b7bf05012e8f6e9bc113baf41d07c6a1980"
+    },
+    "A": {
+      "file": "signals.js",
+      "exported": "pinSignal",
+      "originalAstSha256": "ff95913f257b433dc6a712a2ec53874eff3b424c02cf8e8ac855df91622586a5"
+    },
+    "N": {
+      "file": "audio.js",
+      "exported": "audioContext",
+      "originalAstSha256": "92e1643daf0ad1723dc23aa8fb0e2b131eb750222b93ef01d3fb35b6d169d1a2"
+    },
+    "P": {
+      "file": "audio.js",
+      "exported": "continuousVoice",
+      "originalAstSha256": "49b825dad2be20ca468db2072fe9bdf66e498f465c882129dc3139e9f9893b43"
+    },
+    "yt": {
+      "file": "audio.js",
+      "exported": "unlockAudio",
+      "originalAstSha256": "d6279191466abcc0d25a7d349f0662148d1d69303f5badb6f76a895b464e4cd8"
+    },
+    "bt": {
+      "file": "audio.js",
+      "exported": "playTone",
+      "originalAstSha256": "4225da2ff37b2c2f714a58e15cf19c9fa27eca270982390edb7b1171cce5f2f8"
+    },
+    "xt": {
+      "file": "audio.js",
+      "exported": "continuousTone",
+      "originalAstSha256": "b96de07569b9582b7ec95187f4ff9df3442cb088da965ffcee884867e2c02573"
+    },
+    "St": {
+      "file": "audio.js",
+      "exported": "stopTone",
+      "originalAstSha256": "b6a613d0bde476df3892b8de6b13dcef458a70b8f7c486eb6352c31b6d043d9c"
+    },
+    "fe": {
+      "file": "icons.js",
+      "exported": "iconPaths",
+      "originalAstSha256": "7f43af95675d2c20db7348f8a45edd5268b4cffcaff4179db1281845160c70f0"
+    },
+    "b": {
+      "file": "icons.js",
+      "exported": "renderIcon",
+      "originalAstSha256": "42f7dd3d2b9f680fceb61563e03cdc12b2e953944167daace11cfa817d486ee1"
+    },
+    "pe": {
+      "file": "callouts.js",
+      "exported": "svgNamespace",
+      "originalAstSha256": "70b1e81cf21f714c7ac997f374ca8ab44551e4892cce8ceebdaaf819d11ff795"
+    },
+    "me": {
+      "file": "callouts.js",
+      "exported": "ringMargin",
+      "originalAstSha256": "ad0339793a25f8c9870c54e1bf05b5175912e93c1813eeeb6532d86d29521ae1"
+    },
+    "x": {
+      "file": "callouts.js",
+      "exported": "createSvg",
+      "originalAstSha256": "cadb90ead058c505f7474e82936c9fddb1bb70f181b7f081db97cdbda0a20f05"
+    },
+    "he": {
+      "file": "callouts.js",
+      "exported": "calloutAnchor",
+      "originalAstSha256": "1be63dfbd9ace4d461246f0d33a225de4956aa391760a9dbc60c1d3f3d846a50"
+    },
+    "ge": {
+      "file": "callouts.js",
+      "exported": "leaderApproach",
+      "originalAstSha256": "9156c450b3fed050f1220e050d81a6562dd92d8384c31b942c62346eb198e373"
+    },
+    "_e": {
+      "file": "callouts.js",
+      "exported": "CalloutLayer",
+      "originalAstSha256": "bbea3d2f14ee640e41b4abf285b9f2458ed56d248fae4c825a0b9b2becd8ad6d"
+    },
+    "S": {
+      "file": "lesson-info.js",
+      "exported": "infoTabs",
+      "originalAstSha256": "547e75a8de2e656eaf420bcf28cf0ce00cbb918958ec7c273125a432b338e568"
+    },
+    "ve": {
+      "file": "lesson-info.js",
+      "exported": "renderInfoTab",
+      "originalAstSha256": "385c5c013e94408cb4961a9c388fff588b2be5c49c6142e336f9c3f73d1b82da"
+    },
+    "ye": {
+      "file": "lesson-info.js",
+      "exported": "LessonInfo",
+      "originalAstSha256": "d812bd7c4104453396c8a16010ece8648a6074f35603eaf0346d41e8c059c8ef"
+    },
+    "be": {
+      "file": "sketch-highlight.js",
+      "exported": "keywords",
+      "originalAstSha256": "177cf00b09d6d08dcdbd30a7028f70b07b37fca2b37f54c7ca17daee9894eda8"
+    },
+    "xe": {
+      "file": "sketch-highlight.js",
+      "exported": "constants",
+      "originalAstSha256": "426a721af295f9ad93786087de45748ea1f96ab3c2cb3be649bc08e45bcd40df"
+    },
+    "Se": {
+      "file": "sketch-highlight.js",
+      "exported": "tokenMarker",
+      "originalAstSha256": "e261192119e5b564003ef75f87fbb9b310400f76c0fb6156325a676358aca4b8"
+    },
+    "Ce": {
+      "file": "sketch-highlight.js",
+      "exported": "tokenPattern",
+      "originalAstSha256": "fb708913b43f6075af03f18995fc3e17d3ed84bc7548b8e8e2c35cf0b2ee2814"
+    },
+    "we": {
+      "file": "sketch-highlight.js",
+      "exported": "rtlPattern",
+      "originalAstSha256": "4cab61c56a7a59f927822e35f1d7938bcce3d342e6cc577c77239e144c92f402"
+    },
+    "C": {
+      "file": "sketch-highlight.js",
+      "exported": "escapeHtml",
+      "originalAstSha256": "12a2249e31abb1d3e92584abbdb66ceb94591c125c3365c95ebbc9e66d4034a1"
+    },
+    "Te": {
+      "file": "sketch-highlight.js",
+      "exported": "highlightLine",
+      "originalAstSha256": "c96cdea06f0fd0dfb26d1b48d75fa7ffc8845c22a9d1a428346bc0659843eff1"
+    },
+    "Ee": {
+      "file": "sketch-highlight.js",
+      "exported": "highlightSketch",
+      "originalAstSha256": "d3eb15fdde0254efc3a07cd939747da3cdeef3d9bcd9015352b031c526652fae"
+    },
+    "w": {
+      "file": "code-panel.js",
+      "exported": "serialMinimumHeight",
+      "originalAstSha256": "f9b1fb11b957c53e56ba4b01c347c2f9c73d10360b8f691cf62694fcd980aef0"
+    },
+    "De": {
+      "file": "code-panel.js",
+      "exported": "CodePanel",
+      "originalAstSha256": "48809b304c9663d79a09f089cb5b8b1d9c8191b864ee917f2128681edddc31bd"
+    },
+    "Oe": {
+      "file": "lesson-navigation.js",
+      "exported": "thumbnailWidths",
+      "originalAstSha256": "e0dc0c982e05c87009312e71d31468bf90951e5036b20398ac47b5587e40e682"
+    },
+    "ke": {
+      "file": "lesson-navigation.js",
+      "exported": "lessonCardWidths",
+      "originalAstSha256": "3d7b3e4c63b1a0d299d3b6f129e2ae567c51dc4f047d76a6b6519b959835bd12"
+    },
+    "Ae": {
+      "file": "lesson-navigation.js",
+      "exported": "navigationIcon",
+      "originalAstSha256": "feab8b985126cc27cf3654acfaa52f1e1bdb9d7280f419a0e337fee4e664c58a"
+    },
+    "je": {
+      "file": "lesson-navigation.js",
+      "exported": "LessonNavigation",
+      "originalAstSha256": "6391f525727c949dca4048dc36b9224ccf336d94e27a4ce97889d832d9e6d074"
+    },
+    "Be": {
+      "file": "inspector.js",
+      "exported": "svgNamespace",
+      "originalAstSha256": "9b3e9ba6e70e207286dcd9e5c98b209ab00f1715b76996588ae2b598b8e69f91"
+    },
+    "Ve": {
+      "file": "inspector.js",
+      "exported": "inspectorMargin",
+      "originalAstSha256": "8cc4b018d8785ba5925898051b9ea192c83ee06112ac5a906d5025ffef75c3cd"
+    },
+    "He": {
+      "file": "inspector.js",
+      "exported": "interactionHints",
+      "originalAstSha256": "578911cd15742183e071f38bdc2314a82b541f79186c913e6233ab4908f2a937"
+    },
+    "Ue": {
+      "file": "inspector.js",
+      "exported": "formatParameter",
+      "originalAstSha256": "878f4eae60f624ffeedbbc32cf79249c940180060f064246018e7b68dccabee5"
+    },
+    "We": {
+      "file": "inspector.js",
+      "exported": "ComponentInspector",
+      "originalAstSha256": "71d25a431aee95ce6058ffdf8c222ccb6e39412856c1f19b5065c58c44cd5f0d"
+    },
+    "Me": {
+      "file": "sidebar.js",
+      "exported": "languageName",
+      "originalAstSha256": "4e75446557003bfabc21528e3fdc6d1365eed2d00ab8a6db6266c8cda0b6a695"
+    },
+    "Ne": {
+      "file": "sidebar.js",
+      "exported": "Sidebar",
+      "originalAstSha256": "c2767ada5efe004c86e8ea44466f06b50f8b9e7485771ebef3144bd797c3e448"
+    },
+    "Pe": {
+      "file": "view-controls.js",
+      "exported": "ViewControls",
+      "originalAstSha256": "a537ec6f25e0a24dbc5befca5d7f0723c8d00c4e6eda15519b51060338e2f7dd"
+    },
+    "Fe": {
+      "file": "minimap.js",
+      "exported": "partColours",
+      "originalAstSha256": "8c832515f1c1c2dc30b78645c9c54d0174c94637af02c4c8d2c160d420b597b2"
+    },
+    "Ie": {
+      "file": "minimap.js",
+      "exported": "fallbackColours",
+      "originalAstSha256": "3eba5d3f713a4df6a7b72b959469472896dd5c3f24cc99396a11e21526158a42"
+    },
+    "Le": {
+      "file": "minimap.js",
+      "exported": "mapWidth",
+      "originalAstSha256": "802935d853c89254842398e95f5003d2d02af6781a29547e9eda72f15665277d"
+    },
+    "Re": {
+      "file": "minimap.js",
+      "exported": "mapHeight",
+      "originalAstSha256": "747868fa1369d16bf9aa43c392eafce49811f3fceb87139e83fe0997153e13b7"
+    },
+    "ze": {
+      "file": "minimap.js",
+      "exported": "Minimap",
+      "originalAstSha256": "cbad4aedc7c4b3d35851bad7168ce9c2e626d9683c47454b71b1b6c2c8ed3f45"
+    },
+    "Ke": {
+      "file": "signal-overlay.js",
+      "exported": "labelFractions",
+      "originalAstSha256": "2f085a031ebf8e3cf8eec743af366f27682f1825120928404f4222b85040d267"
+    },
+    "qe": {
+      "file": "signal-overlay.js",
+      "exported": "SignalOverlay",
+      "originalAstSha256": "ac4887981a4f60c58eab591561ceefdbeb66c0218b776fd091be79b0ac0ee48c"
+    },
+    "Ge": {
+      "file": "loader.js",
+      "exported": "LoadingScreen",
+      "originalAstSha256": "214e6e33783d5bb8f4356306f147a5efcf6fce194f0887a60a51988eb68814e0"
+    },
+    "at": {
+      "file": "schematic.js",
+      "exported": "circuits",
+      "originalAstSha256": "60f6adbaf407ac6959179bf0cc2ac5580a626ca5b99f6d4bbcf8769113f672da"
+    },
+    "ct": {
+      "file": "schematic.js",
+      "exported": "symbolWidths",
+      "originalAstSha256": "fe49eae725e5f4ccae836bfc47255d39ab41112561fe39b59668b6a2ef19f592"
+    },
+    "j": {
+      "file": "schematic.js",
+      "exported": "rowGap",
+      "originalAstSha256": "8a1699be80661350de183d88a2162e449567a5e594bf1512348b64e00411b1c4"
+    },
+    "lt": {
+      "file": "schematic.js",
+      "exported": "wireGap",
+      "originalAstSha256": "7aec99c6d0273dde4c5a85a9271a5e7c617c503c0873958cf29b8b40377a8078"
+    },
+    "ut": {
+      "file": "schematic.js",
+      "exported": "boardWidth",
+      "originalAstSha256": "0fcb34dd8bc2ff7b672483e2d90bac1452574d0ed64ae250959c87ca914d542a"
+    },
+    "dt": {
+      "file": "schematic.js",
+      "exported": "leftMargin",
+      "originalAstSha256": "9045784ef2c7b1708e04d8d55305d3a3ffe97cc9730e000fb778b80e253d585a"
+    },
+    "ft": {
+      "file": "schematic.js",
+      "exported": "rightMargin",
+      "originalAstSha256": "45c702cb88354731953512d25eebd7be3ee193e2c0410ad93c088528e6901d2b"
+    },
+    "pt": {
+      "file": "schematic.js",
+      "exported": "pwmPins",
+      "originalAstSha256": "32389b2b97766947a7e930f83d6e914fc97c6ae987ce4ae18ef904fb28e38e0a"
+    },
+    "mt": {
+      "file": "schematic.js",
+      "exported": "resolveValue",
+      "originalAstSha256": "03979f20836173a34970b5dbf2dbcdc94b272f11069379795217d26047930933"
+    },
+    "M": {
+      "file": "schematic.js",
+      "exported": "escapeAttribute",
+      "originalAstSha256": "236e973e211e48d2b8c2f9f4d5b485937d3a4d1f94e87cfe72b13f9dff73e968"
+    },
+    "ht": {
+      "file": "schematic.js",
+      "exported": "pinLabel",
+      "originalAstSha256": "cf2afaba1b4f38ac8e3a4af70459a47c847e331c4a5a4380978fd5cfe4ce4165"
+    },
+    "gt": {
+      "file": "schematic.js",
+      "exported": "renderSymbol",
+      "originalAstSha256": "787c6f4fee66bcd336236e2a480ffee65660f8bd74e9ddc4759389a36e5a2112"
+    },
+    "_t": {
+      "file": "schematic.js",
+      "exported": "renderCircuit",
+      "originalAstSha256": "aaa47a29b42e7f2d412672a872ac40279b1b1bf7282c257020566edd7fde5186"
+    },
+    "st": {
+      "file": "schematic.js",
+      "exported": "signalStrength",
+      "originalAstSha256": "e8d29634f6e97f29949aaf3b897346a023af5692bd7501b93965bd2226a7859d"
+    },
+    "vt": {
+      "file": "schematic.js",
+      "exported": "Schematic",
+      "originalAstSha256": "045f953ca2c13c85cd246dcb821f0d09a3e62ab6a997defd81334fe43ad7ea96"
+    },
+    "_": {
+      "file": "../sketch/template.js",
+      "exported": "createDefaultParameters",
+      "authored": true,
+      "originalAstSha256": "a026553bfe12f830ccc4166d7e97e05d808306cfb6240930619b72a99d8a7842"
+    },
+    "v": {
+      "file": "../sketch/template.js",
+      "exported": "resolveOptionCode",
+      "authored": true,
+      "originalAstSha256": "62e31b792ecd1c943e5e25c285ff56614a2cf2443dd473aca837de9832813fc5"
+    },
+    "te": {
+      "file": "../sketch/template.js",
+      "exported": "interpolateSketch",
+      "authored": true,
+      "originalAstSha256": "789d7211c43de27cd05e6c8d502e526eb1c291b0df2247936bac6e5a1c0b9ee9"
+    },
+    "T": {
+      "file": "schematic.js",
+      "exported": "T",
+      "originalAstSha256": "f8cd5df5949e888ff242e46c874c794e97f429e2093ad651829ac7296e087b17"
+    },
+    "E": {
+      "file": "schematic.js",
+      "exported": "E",
+      "originalAstSha256": "40b8fecea386150e07c8d43acf07efe8bacb1a8a3b30f768b7fec070d278fdee"
+    },
+    "D": {
+      "file": "schematic.js",
+      "exported": "D",
+      "originalAstSha256": "606497eac00be8e9e4025344efb3ede615cd888c65af462c9242010f095ccca4"
+    },
+    "it": {
+      "file": "schematic.js",
+      "exported": "it",
+      "originalAstSha256": "07afc60e7160634e20f61e1faf062cfce9eb5c25657afb1f0b7c80d14c1ab21b"
+    },
+    "rt": {
+      "file": "schematic.js",
+      "exported": "rt",
+      "originalAstSha256": "f03d898914a4a8fe46c3958d51197b2d26c9e13b7c70ed09b17524a4cfedae13"
+    },
+    "$e": {
+      "file": "schematic.js",
+      "exported": "$e",
+      "originalAstSha256": "04aef5402f8db1bd4b2e141e31089af503d455dee97c407cfffe264b5c8809c6"
+    },
+    "Je": {
+      "file": "schematic.js",
+      "exported": "Je",
+      "originalAstSha256": "a8bbee9e49e2988393cbc5a22c9dfbec7bbf5c3af0f93c72fb7e57e3c9dcaa12"
+    },
+    "O": {
+      "file": "schematic.js",
+      "exported": "O",
+      "originalAstSha256": "5d7a3e6d0e17a2ef737db759b6d1556a80c7e1cb48a04d90d4dead4679e5ee63"
+    },
+    "tt": {
+      "file": "schematic.js",
+      "exported": "tt",
+      "originalAstSha256": "47754f21c8ae98aad6e2d8ff9367a8b063747ff2b4fb1c92745fc5797348f550"
+    },
+    "k": {
+      "file": "schematic.js",
+      "exported": "k",
+      "originalAstSha256": "2c1b232bb797d78f8e40d20dad3f9d07af4fac5d27669a65d35c54b9a3f85c0a"
+    },
+    "nt": {
+      "file": "schematic.js",
+      "exported": "nt",
+      "originalAstSha256": "0b501553db6b72ba08c9aac238dc8c69b6f96aac13b5a00b7cfbd93a9b6a32ca"
+    },
+    "Ze": {
+      "file": "schematic.js",
+      "exported": "Ze",
+      "originalAstSha256": "f49b462c3ca17cea9fbde528c57945f1cfb1e328a0b6eb9a73cf1d63dfb7e8c4"
+    },
+    "Ye": {
+      "file": "schematic.js",
+      "exported": "Ye",
+      "originalAstSha256": "2340c18a5860124b4ae852334ae337c21ba92f03f1ac63dc98f9667d9de5e5ae"
+    },
+    "et": {
+      "file": "schematic.js",
+      "exported": "et",
+      "originalAstSha256": "2b52714e69042d36c37b35467c2ff3e1291856871ec39f8c3637f85b79371104"
+    },
+    "Xe": {
+      "file": "schematic.js",
+      "exported": "Xe",
+      "originalAstSha256": "7140a3cf89fc55b05b09479fb9f1c8637e19697f97b791c38d3a9593e96c9e41"
+    },
+    "Qe": {
+      "file": "schematic.js",
+      "exported": "Qe",
+      "originalAstSha256": "dd58dfb2720113bb5a6b4b2a028127ce794ab33efb6ef3d3a5fd499d49878c13"
+    }
+  },
+  "adaptations": [
+    "Separate bootstrap side effects from shared localization; three counted base-path routing adaptations.",
+    "Discard original Vite preload hash list; rebuilt imports own dependency loading.",
+    "Transparent floor signature texture; original mesh, fade and disposal lifecycle retained.",
+    "Blank presentation credit placeholders retain sidebar measurement anchors; author metadata omitted. Root/localized HTML asset URLs and webmanifest are base-relative."
+  ]
+}

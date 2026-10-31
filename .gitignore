@@ -1,0 +1,9 @@
+/.tools/
+/node_modules/
+/dist/
+/dist-pages/
+/dist-preserved/
+__pycache__/
+*.pyc
+/test-results/
+/playwright-report/

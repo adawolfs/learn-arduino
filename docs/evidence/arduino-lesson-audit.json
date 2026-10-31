@@ -1,0 +1,354 @@
+[
+  {
+    "lesson": "Lesson 1: Meet the board",
+    "equal": true,
+    "original": {
+      "code": "1void setup() {2  pinMode(LED_BUILTIN, OUTPUT);3}4 5void loop() {6  digitalWrite(LED_BUILTIN, HIGH);7  delay(1000);8}",
+      "heading": [
+        "Arduino Uno",
+        "Try it yourself",
+        "Lessons"
+      ],
+      "title": "Meet the board · Learn Arduino"
+    },
+    "local": {
+      "code": "1void setup() {2  pinMode(LED_BUILTIN, OUTPUT);3}4 5void loop() {6  digitalWrite(LED_BUILTIN, HIGH);7  delay(1000);8}",
+      "heading": [
+        "Arduino Uno",
+        "Try it yourself",
+        "Lessons"
+      ],
+      "title": "Meet the board · Learn Arduino"
+    }
+  },
+  {
+    "lesson": "Lesson 2: Blink an LED",
+    "equal": true,
+    "original": {
+      "code": "1const int LED_PIN = 13;2 3void setup() {4  pinMode(LED_PIN, OUTPUT);5}6 7void loop() {8  digitalWrite(LED_PIN, HIGH);9  delay(500);10  digitalWrite(LED_PIN, LOW);11  delay(500);12}",
+      "heading": [
+        "Blink an LED",
+        "Try it yourself",
+        "Lessons"
+      ],
+      "title": "Blink an LED · Learn Arduino"
+    },
+    "local": {
+      "code": "1const int LED_PIN = 13;2 3void setup() {4  pinMode(LED_PIN, OUTPUT);5}6 7void loop() {8  digitalWrite(LED_PIN, HIGH);9  delay(500);10  digitalWrite(LED_PIN, LOW);11  delay(500);12}",
+      "heading": [
+        "Blink an LED",
+        "Try it yourself",
+        "Lessons"
+      ],
+      "title": "Blink an LED · Learn Arduino"
+    }
+  },
+  {
+    "lesson": "Lesson 3: Push a button",
+    "equal": true,
+    "original": {
+      "code": "1const int BUTTON = 2;2const int LED = 13;3 4void setup() {5  pinMode(BUTTON, INPUT);6  pinMode(LED, OUTPUT);7}8 9void loop() {10  int pressed = digitalRead(BUTTON);11  digitalWrite(LED, pressed);12}",
+      "heading": [
+        "Push a button",
+        "Try it yourself",
+        "Lessons"
+      ],
+      "title": "Push a button · Learn Arduino"
+    },
+    "local": {
+      "code": "1const int BUTTON = 2;2const int LED = 13;3 4void setup() {5  pinMode(BUTTON, INPUT);6  pinMode(LED, OUTPUT);7}8 9void loop() {10  int pressed = digitalRead(BUTTON);11  digitalWrite(LED, pressed);12}",
+      "heading": [
+        "Push a button",
+        "Try it yourself",
+        "Lessons"
+      ],
+      "title": "Push a button · Learn Arduino"
+    }
+  },
+  {
+    "lesson": "Lesson 4: Turn a knob",
+    "equal": true,
+    "original": {
+      "code": "1const int POT = A0;2const int LED = 9;3 4void setup() {5  Serial.begin(9600);6  pinMode(LED, OUTPUT);7}8 9void loop() {10  int value = analogRead(POT);  // 0-102311  analogWrite(LED, value / 4);  // 0-25512  Serial.println(value);13  delay(50);14}",
+      "heading": [
+        "Turn a knob",
+        "Try it yourself",
+        "Lessons"
+      ],
+      "title": "Turn a knob · Learn Arduino"
+    },
+    "local": {
+      "code": "1const int POT = A0;2const int LED = 9;3 4void setup() {5  Serial.begin(9600);6  pinMode(LED, OUTPUT);7}8 9void loop() {10  int value = analogRead(POT);  // 0-102311  analogWrite(LED, value / 4);  // 0-25512  Serial.println(value);13  delay(50);14}",
+      "heading": [
+        "Turn a knob",
+        "Try it yourself",
+        "Lessons"
+      ],
+      "title": "Turn a knob · Learn Arduino"
+    }
+  },
+  {
+    "lesson": "Lesson 5: Mix colours",
+    "equal": true,
+    "original": {
+      "code": "1const int RED = 9;2const int GREEN = 10;3const int BLUE = 11;4 5void setup() {6  pinMode(RED, OUTPUT);7  pinMode(GREEN, OUTPUT);8  pinMode(BLUE, OUTPUT);9}10 11void loop() {12  analogWrite(RED, 170);13  analogWrite(GREEN, 0);14  analogWrite(BLUE, 255);15  delay(100);16}",
+      "heading": [
+        "Mix colours",
+        "Try it yourself",
+        "Lessons"
+      ],
+      "title": "Mix colours · Learn Arduino"
+    },
+    "local": {
+      "code": "1const int RED = 9;2const int GREEN = 10;3const int BLUE = 11;4 5void setup() {6  pinMode(RED, OUTPUT);7  pinMode(GREEN, OUTPUT);8  pinMode(BLUE, OUTPUT);9}10 11void loop() {12  analogWrite(RED, 170);13  analogWrite(GREEN, 0);14  analogWrite(BLUE, 255);15  delay(100);16}",
+      "heading": [
+        "Mix colours",
+        "Try it yourself",
+        "Lessons"
+      ],
+      "title": "Mix colours · Learn Arduino"
+    }
+  },
+  {
+    "lesson": "Lesson 6: Sense light",
+    "equal": true,
+    "original": {
+      "code": "1const int SENSOR = A0;2const int LED = 9;3 4void setup() {5  Serial.begin(9600);6  pinMode(LED, OUTPUT);7}8 9void loop() {10  int light = analogRead(SENSOR);  // more light = higher11  Serial.println(light);12 13  if (light < 400) {14    digitalWrite(LED, HIGH);  // dark: night light on15  } else {16    digitalWrite(LED, LOW);17  }18  delay(100);19}",
+      "heading": [
+        "Sense light",
+        "Try it yourself",
+        "Lessons"
+      ],
+      "title": "Sense light · Learn Arduino"
+    },
+    "local": {
+      "code": "1const int SENSOR = A0;2const int LED = 9;3 4void setup() {5  Serial.begin(9600);6  pinMode(LED, OUTPUT);7}8 9void loop() {10  int light = analogRead(SENSOR);  // more light = higher11  Serial.println(light);12 13  if (light < 400) {14    digitalWrite(LED, HIGH);  // dark: night light on15  } else {16    digitalWrite(LED, LOW);17  }18  delay(100);19}",
+      "heading": [
+        "Sense light",
+        "Try it yourself",
+        "Lessons"
+      ],
+      "title": "Sense light · Learn Arduino"
+    }
+  },
+  {
+    "lesson": "Lesson 7: Read a sensor",
+    "equal": true,
+    "original": {
+      "code": "1const int TRIG = 9;2const int ECHO = 10;3 4void setup() {5  Serial.begin(9600);6  pinMode(TRIG, OUTPUT);7  pinMode(ECHO, INPUT);8}9 10void loop() {11  digitalWrite(TRIG, HIGH);12  delayMicroseconds(10);13  digitalWrite(TRIG, LOW);14 15  long cm = pulseIn(ECHO, HIGH) / 58;16  Serial.println(cm);17  delay(100);18}",
+      "heading": [
+        "Read a sensor",
+        "Try it yourself",
+        "Lessons"
+      ],
+      "title": "Read a sensor · Learn Arduino"
+    },
+    "local": {
+      "code": "1const int TRIG = 9;2const int ECHO = 10;3 4void setup() {5  Serial.begin(9600);6  pinMode(TRIG, OUTPUT);7  pinMode(ECHO, INPUT);8}9 10void loop() {11  digitalWrite(TRIG, HIGH);12  delayMicroseconds(10);13  digitalWrite(TRIG, LOW);14 15  long cm = pulseIn(ECHO, HIGH) / 58;16  Serial.println(cm);17  delay(100);18}",
+      "heading": [
+        "Read a sensor",
+        "Try it yourself",
+        "Lessons"
+      ],
+      "title": "Read a sensor · Learn Arduino"
+    }
+  },
+  {
+    "lesson": "Lesson 8: Make a sound",
+    "equal": true,
+    "original": {
+      "code": "1const int BUZZER = 8;2int melody[] = {3  262, 262, 392, 392, 440, 440, 392,4  349, 349, 330, 330, 294, 294, 2625};6const int N = sizeof(melody) / sizeof(int);7 8void setup() {}9 10void loop() {11  for (int i = 0; i < N; i++) {12    tone(BUZZER, melody[i], 220);13    delay(220 + 50);14  }15  delay(1000);16}",
+      "heading": [
+        "Make a sound",
+        "Try it yourself",
+        "Lessons"
+      ],
+      "title": "Make a sound · Learn Arduino"
+    },
+    "local": {
+      "code": "1const int BUZZER = 8;2int melody[] = {3  262, 262, 392, 392, 440, 440, 392,4  349, 349, 330, 330, 294, 294, 2625};6const int N = sizeof(melody) / sizeof(int);7 8void setup() {}9 10void loop() {11  for (int i = 0; i < N; i++) {12    tone(BUZZER, melody[i], 220);13    delay(220 + 50);14  }15  delay(1000);16}",
+      "heading": [
+        "Make a sound",
+        "Try it yourself",
+        "Lessons"
+      ],
+      "title": "Make a sound · Learn Arduino"
+    }
+  },
+  {
+    "lesson": "Lesson 9: Mini piano",
+    "equal": true,
+    "original": {
+      "code": "1const int BUZZER = 10;2const int KEYS[] = {2, 3, 4, 5, 6, 7, 8, 9};3const int NOTES[] = {262, 294, 330, 349, 392, 440, 494, 523};  // C4 to C54const char* NAMES[] = {\"Do\", \"Re\", \"Mi\", \"Fa\", \"Sol\", \"La\", \"Si\", \"Do\"};5int playing = -1;  // the key sounding now, or -16 7void setup() {8  Serial.begin(9600);9  for (int i = 0; i < 8; i++) {10    pinMode(KEYS[i], INPUT_PULLUP);  // HIGH until pressed11  }12}13 14void loop() {15  int pressed = -1;16  for (int i = 0; i < 8; i++) {17    if (digitalRead(KEYS[i]) == LOW) pressed = i;  // LOW: key down18  }19  if (pressed != playing) {20    playing = pressed;21    if (playing >= 0) {22      tone(BUZZER, NOTES[playing]);23      Serial.println(NAMES[playing]);24    } else {25      noTone(BUZZER);26    }27  }28}",
+      "heading": [
+        "Build a mini piano",
+        "Try it yourself",
+        "Lessons"
+      ],
+      "title": "Mini piano · Learn Arduino"
+    },
+    "local": {
+      "code": "1const int BUZZER = 10;2const int KEYS[] = {2, 3, 4, 5, 6, 7, 8, 9};3const int NOTES[] = {262, 294, 330, 349, 392, 440, 494, 523};  // C4 to C54const char* NAMES[] = {\"Do\", \"Re\", \"Mi\", \"Fa\", \"Sol\", \"La\", \"Si\", \"Do\"};5int playing = -1;  // the key sounding now, or -16 7void setup() {8  Serial.begin(9600);9  for (int i = 0; i < 8; i++) {10    pinMode(KEYS[i], INPUT_PULLUP);  // HIGH until pressed11  }12}13 14void loop() {15  int pressed = -1;16  for (int i = 0; i < 8; i++) {17    if (digitalRead(KEYS[i]) == LOW) pressed = i;  // LOW: key down18  }19  if (pressed != playing) {20    playing = pressed;21    if (playing >= 0) {22      tone(BUZZER, NOTES[playing]);23      Serial.println(NAMES[playing]);24    } else {25      noTone(BUZZER);26    }27  }28}",
+      "heading": [
+        "Build a mini piano",
+        "Try it yourself",
+        "Lessons"
+      ],
+      "title": "Mini piano · Learn Arduino"
+    }
+  },
+  {
+    "lesson": "Lesson 10: Control a motor",
+    "equal": true,
+    "original": {
+      "code": "1const int MOTOR = 6;  // PWM pin2 3void setup() {4  pinMode(MOTOR, OUTPUT);5}6 7void loop() {8  for (int s = 0; s <= 255; s += 5) {9    analogWrite(MOTOR, s);10    delay(40);11  }12  delay(1500);13  analogWrite(MOTOR, 0);14  delay(1500);15}",
+      "heading": [
+        "Control a motor",
+        "Try it yourself",
+        "Lessons"
+      ],
+      "title": "Control a motor · Learn Arduino"
+    },
+    "local": {
+      "code": "1const int MOTOR = 6;  // PWM pin2 3void setup() {4  pinMode(MOTOR, OUTPUT);5}6 7void loop() {8  for (int s = 0; s <= 255; s += 5) {9    analogWrite(MOTOR, s);10    delay(40);11  }12  delay(1500);13  analogWrite(MOTOR, 0);14  delay(1500);15}",
+      "heading": [
+        "Control a motor",
+        "Try it yourself",
+        "Lessons"
+      ],
+      "title": "Control a motor · Learn Arduino"
+    }
+  },
+  {
+    "lesson": "Lesson 11: Sense heat",
+    "equal": true,
+    "original": {
+      "code": "1const int SENSOR = A0;2const int FAN = 6;  // PWM, through the transistor3 4void setup() {5  Serial.begin(9600);6  pinMode(FAN, OUTPUT);7}8 9void loop() {10  int raw = analogRead(SENSOR);11  float volts = raw * 5.0 / 1023.0;12  float tempC = (volts - 0.5) * 100.0;13  Serial.println(tempC);14 15  if (tempC > 30) {16    analogWrite(FAN, 255);  // too warm: fan on17  } else {18    analogWrite(FAN, 0);19  }20  delay(200);21}",
+      "heading": [
+        "Sense heat",
+        "Try it yourself",
+        "Lessons"
+      ],
+      "title": "Sense heat · Learn Arduino"
+    },
+    "local": {
+      "code": "1const int SENSOR = A0;2const int FAN = 6;  // PWM, through the transistor3 4void setup() {5  Serial.begin(9600);6  pinMode(FAN, OUTPUT);7}8 9void loop() {10  int raw = analogRead(SENSOR);11  float volts = raw * 5.0 / 1023.0;12  float tempC = (volts - 0.5) * 100.0;13  Serial.println(tempC);14 15  if (tempC > 30) {16    analogWrite(FAN, 255);  // too warm: fan on17  } else {18    analogWrite(FAN, 0);19  }20  delay(200);21}",
+      "heading": [
+        "Sense heat",
+        "Try it yourself",
+        "Lessons"
+      ],
+      "title": "Sense heat · Learn Arduino"
+    }
+  },
+  {
+    "lesson": "Lesson 12: Sweep a servo",
+    "equal": true,
+    "original": {
+      "code": "1#include <Servo.h>2Servo arm;3 4void setup() {5  arm.attach(9);6}7 8void loop() {9  for (int a = 0; a <= 180; a++) {10    arm.write(a);11    delay(12);12  }13  for (int a = 180; a >= 0; a--) {14    arm.write(a);15    delay(12);16  }17}",
+      "heading": [
+        "Sweep a servo",
+        "Try it yourself",
+        "Lessons"
+      ],
+      "title": "Sweep a servo · Learn Arduino"
+    },
+    "local": {
+      "code": "1#include <Servo.h>2Servo arm;3 4void setup() {5  arm.attach(9);6}7 8void loop() {9  for (int a = 0; a <= 180; a++) {10    arm.write(a);11    delay(12);12  }13  for (int a = 180; a >= 0; a--) {14    arm.write(a);15    delay(12);16  }17}",
+      "heading": [
+        "Sweep a servo",
+        "Try it yourself",
+        "Lessons"
+      ],
+      "title": "Sweep a servo · Learn Arduino"
+    }
+  },
+  {
+    "lesson": "Lesson 13: Spin the wheel",
+    "equal": true,
+    "original": {
+      "code": "1#include <AccelStepper.h>2 3const int STEPS = 2048;    // one turn of a 28BYJ-484const int SEGMENTS = 8;    // 256 steps each5const int BUTTON = 2;6// four wires, full steps: pins IN1, IN3, IN2, IN47AccelStepper wheel(AccelStepper::FULL4WIRE, 8, 10, 9, 11);8 9const char* PRIZES[] = {\"50\", \"100\", \"200\", \"AGAIN\",10                        \"500\", \"x2\", \"1000\", \"JACKPOT\"};11int at = 0;  // the segment under the pointer12 13void setup() {14  pinMode(BUTTON, INPUT);15  wheel.setMaxSpeed(24 * STEPS / 60.0);  // steps a second16  wheel.setAcceleration(1200);17  Serial.begin(9600);18  randomSeed(analogRead(A0));19}20 21void loop() {22  if (digitalRead(BUTTON) == HIGH) {23    int prize = random(SEGMENTS);24    int ahead = (prize - at + SEGMENTS) % SEGMENTS;25    long steps = (1 * SEGMENTS + ahead) * (STEPS / SEGMENTS);26    wheel.move(steps);27    wheel.runToPosition();  // speed up, spin, slow down onto it28    at = prize;29    Serial.print(\"Landed on \");30    Serial.println(PRIZES[at]);31  }32}",
+      "heading": [
+        "Spin the wheel",
+        "Try it yourself",
+        "Lessons"
+      ],
+      "title": "Spin the wheel · Learn Arduino"
+    },
+    "local": {
+      "code": "1#include <AccelStepper.h>2 3const int STEPS = 2048;    // one turn of a 28BYJ-484const int SEGMENTS = 8;    // 256 steps each5const int BUTTON = 2;6// four wires, full steps: pins IN1, IN3, IN2, IN47AccelStepper wheel(AccelStepper::FULL4WIRE, 8, 10, 9, 11);8 9const char* PRIZES[] = {\"50\", \"100\", \"200\", \"AGAIN\",10                        \"500\", \"x2\", \"1000\", \"JACKPOT\"};11int at = 0;  // the segment under the pointer12 13void setup() {14  pinMode(BUTTON, INPUT);15  wheel.setMaxSpeed(24 * STEPS / 60.0);  // steps a second16  wheel.setAcceleration(1200);17  Serial.begin(9600);18  randomSeed(analogRead(A0));19}20 21void loop() {22  if (digitalRead(BUTTON) == HIGH) {23    int prize = random(SEGMENTS);24    int ahead = (prize - at + SEGMENTS) % SEGMENTS;25    long steps = (1 * SEGMENTS + ahead) * (STEPS / SEGMENTS);26    wheel.move(steps);27    wheel.runToPosition();  // speed up, spin, slow down onto it28    at = prize;29    Serial.print(\"Landed on \");30    Serial.println(PRIZES[at]);31  }32}",
+      "heading": [
+        "Spin the wheel",
+        "Try it yourself",
+        "Lessons"
+      ],
+      "title": "Spin the wheel · Learn Arduino"
+    }
+  },
+  {
+    "lesson": "Lesson 14: Smart plant",
+    "equal": true,
+    "original": {
+      "code": "1#include <Wire.h>2#include <Adafruit_SSD1306.h>3 4const int SENSOR = A0;5const int DRY = 520;  // the reading in dry air6const int WET = 260;  // the reading in water7Adafruit_SSD1306 screen(128, 64, &Wire);8 9void setup() {10  Serial.begin(9600);11  screen.begin(SSD1306_SWITCHCAPVCC, x3C);12  screen.setTextColor(SSD1306_WHITE);13}14 15void loop() {16  int raw = analogRead(SENSOR);17  int moisture = map(raw, DRY, WET, 0, 100);18  moisture = constrain(moisture, 0, 100);19  Serial.println(moisture);20 21  screen.clearDisplay();22  screen.setTextSize(3);23  screen.setCursor(0, 0);24  screen.print(moisture);25  screen.print(\"%\");26  screen.drawRect(0, 28, 128, 8, SSD1306_WHITE);27  screen.fillRect(0, 28, moisture * 128 / 100, 8, SSD1306_WHITE);28 29  screen.setTextSize(2);30  screen.setCursor(0, 46);31  if (moisture < 30) {32    screen.print(\"Water me!\");33  } else if (moisture > 85) {34    screen.print(\"Too wet!\");35  } else {36    screen.print(\"Happy :)\");37  }38  screen.display();39  delay(500);40}",
+      "heading": [
+        "Smart plant monitor",
+        "Try it yourself",
+        "Lessons"
+      ],
+      "title": "Smart plant · Learn Arduino"
+    },
+    "local": {
+      "code": "1#include <Wire.h>2#include <Adafruit_SSD1306.h>3 4const int SENSOR = A0;5const int DRY = 520;  // the reading in dry air6const int WET = 260;  // the reading in water7Adafruit_SSD1306 screen(128, 64, &Wire);8 9void setup() {10  Serial.begin(9600);11  screen.begin(SSD1306_SWITCHCAPVCC, x3C);12  screen.setTextColor(SSD1306_WHITE);13}14 15void loop() {16  int raw = analogRead(SENSOR);17  int moisture = map(raw, DRY, WET, 0, 100);18  moisture = constrain(moisture, 0, 100);19  Serial.println(moisture);20 21  screen.clearDisplay();22  screen.setTextSize(3);23  screen.setCursor(0, 0);24  screen.print(moisture);25  screen.print(\"%\");26  screen.drawRect(0, 28, 128, 8, SSD1306_WHITE);27  screen.fillRect(0, 28, moisture * 128 / 100, 8, SSD1306_WHITE);28 29  screen.setTextSize(2);30  screen.setCursor(0, 46);31  if (moisture < 30) {32    screen.print(\"Water me!\");33  } else if (moisture > 85) {34    screen.print(\"Too wet!\");35  } else {36    screen.print(\"Happy :)\");37  }38  screen.display();39  delay(500);40}",
+      "heading": [
+        "Smart plant monitor",
+        "Try it yourself",
+        "Lessons"
+      ],
+      "title": "Smart plant · Learn Arduino"
+    }
+  },
+  {
+    "lesson": "Lesson 15: Feel the force",
+    "equal": true,
+    "original": {
+      "code": "1#include <Servo.h>2 3const int FSR = A0;4const int BELL = 8;5const long PULLDOWN = 10000;  // ohms, from A0 to GND6Servo needle;7 8int best = 0;              // the hardest press lately9unsigned long bestAt = 0;  // when it happened10bool rung = false;11 12void setup() {13  needle.attach(9);14  Serial.begin(9600);15}16 17void loop() {18  int force = analogRead(FSR);  // higher the harder you press19 20  // a harder press takes over; after a while the needle lets go21  if (force >= best || millis() - bestAt > 1500) {22    best = force;23    bestAt = millis();24  }25  needle.write(map(best, 0, 1023, 0, 180));26 27  if (best > 880 && !rung) {28    tone(BELL, 1568, 400);  // ding!29    rung = true;30  } else if (best < 880 - 100) {31    rung = false;32  }33 34  if (force > 10) {35    // the sensor's resistance, worked out from the divider36    long ohms = PULLDOWN * (L - force) / force;37    Serial.print(force);38    Serial.print(\"  \");39    Serial.print(ohms);40    Serial.println(\" ohms\");41  }42  delay(20);43}",
+      "heading": [
+        "Test your strength",
+        "Try it yourself",
+        "Lessons"
+      ],
+      "title": "Feel the force · Learn Arduino"
+    },
+    "local": {
+      "code": "1#include <Servo.h>2 3const int FSR = A0;4const int BELL = 8;5const long PULLDOWN = 10000;  // ohms, from A0 to GND6Servo needle;7 8int best = 0;              // the hardest press lately9unsigned long bestAt = 0;  // when it happened10bool rung = false;11 12void setup() {13  needle.attach(9);14  Serial.begin(9600);15}16 17void loop() {18  int force = analogRead(FSR);  // higher the harder you press19 20  // a harder press takes over; after a while the needle lets go21  if (force >= best || millis() - bestAt > 1500) {22    best = force;23    bestAt = millis();24  }25  needle.write(map(best, 0, 1023, 0, 180));26 27  if (best > 880 && !rung) {28    tone(BELL, 1568, 400);  // ding!29    rung = true;30  } else if (best < 880 - 100) {31    rung = false;32  }33 34  if (force > 10) {35    // the sensor's resistance, worked out from the divider36    long ohms = PULLDOWN * (L - force) / force;37    Serial.print(force);38    Serial.print(\"  \");39    Serial.print(ohms);40    Serial.println(\" ohms\");41  }42  delay(20);43}",
+      "heading": [
+        "Test your strength",
+        "Try it yourself",
+        "Lessons"
+      ],
+      "title": "Feel the force · Learn Arduino"
+    }
+  },
+  {
+    "lesson": "Lesson 16: Build a project",
+    "equal": true,
+    "original": {
+      "code": "1const int TRIG = 9, ECHO = 10;2const int RED = 4, YLW = 3, GRN = 2;3 4void setup() {5  pinMode(TRIG, OUTPUT);6  pinMode(ECHO, INPUT);7  for (int p = 2; p <= 4; p++)8    pinMode(p, OUTPUT);9}10 11void loop() {12  digitalWrite(TRIG, HIGH);13  delayMicroseconds(10);14  digitalWrite(TRIG, LOW);15  long cm = pulseIn(ECHO, HIGH) / 58;16 17  digitalWrite(GRN, cm > 30);18  digitalWrite(YLW, cm > 15 && cm <= 30);19  digitalWrite(RED, cm <= 15);20  delay(60);21}",
+      "heading": [
+        "Parking sensor",
+        "Try it yourself",
+        "Lessons"
+      ],
+      "title": "Build a project · Learn Arduino"
+    },
+    "local": {
+      "code": "1const int TRIG = 9, ECHO = 10;2const int RED = 4, YLW = 3, GRN = 2;3 4void setup() {5  pinMode(TRIG, OUTPUT);6  pinMode(ECHO, INPUT);7  for (int p = 2; p <= 4; p++)8    pinMode(p, OUTPUT);9}10 11void loop() {12  digitalWrite(TRIG, HIGH);13  delayMicroseconds(10);14  digitalWrite(TRIG, LOW);15  long cm = pulseIn(ECHO, HIGH) / 58;16 17  digitalWrite(GRN, cm > 30);18  digitalWrite(YLW, cm > 15 && cm <= 30);19  digitalWrite(RED, cm <= 15);20  delay(60);21}",
+      "heading": [
+        "Parking sensor",
+        "Try it yourself",
+        "Lessons"
+      ],
+      "title": "Build a project · Learn Arduino"
+    }
+  }
+]

@@ -1,0 +1,2635 @@
+{
+  "schema_version": 1,
+  "base_url": "https://learn-arduino-red.vercel.app/",
+  "started_at": "2026-10-31T20:57:57.903310+00:00",
+  "captured_at": "2026-10-31T20:58:29.130900+00:00",
+  "file_count": 77,
+  "total_bytes": 6340776,
+  "files": [
+    {
+      "url": "https://learn-arduino-red.vercel.app/apple-touch-icon.png",
+      "final_url": "https://learn-arduino-red.vercel.app/apple-touch-icon.png",
+      "path": "site/apple-touch-icon.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 4982,
+      "sha256": "e3f89509c1bf4d281cebda128dca194da1f29c49612d82103d2f86f9d84840dd",
+      "captured_at": "2026-10-31T20:57:59.473101+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Etag": "\"b143a964bf9567a38b3cd511fde368a6\"",
+        "Last-Modified": "Thu, 29 Oct 2026 23:04:38 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/barlow-latin-400-normal-qiz4-Cze.woff2",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/barlow-latin-400-normal-qiz4-Cze.woff2",
+      "path": "site/assets/barlow-latin-400-normal-qiz4-Cze.woff2",
+      "status": 200,
+      "content_type": "font/woff2",
+      "bytes": 22196,
+      "sha256": "b0a8ad37ac45f5fb22ced461576db72e44e295107aad7a9c8a7a4bad728fd03b",
+      "captured_at": "2026-10-31T20:58:06.587782+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"81419bf5abb50ae075ddf1aee89da819\"",
+        "Last-Modified": "Thu, 29 Oct 2026 20:41:43 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/barlow-latin-500-normal-BPAOfeC8.woff2",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/barlow-latin-500-normal-BPAOfeC8.woff2",
+      "path": "site/assets/barlow-latin-500-normal-BPAOfeC8.woff2",
+      "status": 200,
+      "content_type": "font/woff2",
+      "bytes": 22008,
+      "sha256": "cd759df8ef9efc98fee14307b4eb5ba27f08b1f8f2f3ad2872432e25c89907a8",
+      "captured_at": "2026-10-31T20:58:06.912809+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"8e986e86d57eb493631f911cb433dff4\"",
+        "Last-Modified": "Thu, 29 Oct 2026 23:03:27 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/barlow-latin-600-normal-DILqtrty.woff2",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/barlow-latin-600-normal-DILqtrty.woff2",
+      "path": "site/assets/barlow-latin-600-normal-DILqtrty.woff2",
+      "status": 200,
+      "content_type": "font/woff2",
+      "bytes": 22772,
+      "sha256": "4b52ddd4836b592df0e4832b8286956883cdc651b015126bdd18f184b7f90cc3",
+      "captured_at": "2026-10-31T20:58:07.227547+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"a1e2a2d7d4c0a5ba535913f0a2150cae\"",
+        "Last-Modified": "Thu, 29 Oct 2026 20:59:58 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/barlow-latin-ext-400-normal-HxX4XjxC.woff2",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/barlow-latin-ext-400-normal-HxX4XjxC.woff2",
+      "path": "site/assets/barlow-latin-ext-400-normal-HxX4XjxC.woff2",
+      "status": 200,
+      "content_type": "font/woff2",
+      "bytes": 14268,
+      "sha256": "122b24bc2a90b0abe189f5229768bf2e9ba641324fe2459b48850079625934f1",
+      "captured_at": "2026-10-31T20:58:07.588837+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"30fe91f5bb421da5f47cf26e1fed5700\"",
+        "Last-Modified": "Fri, 30 Oct 2026 02:45:49 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/barlow-latin-ext-500-normal-DOaysfXq.woff2",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/barlow-latin-ext-500-normal-DOaysfXq.woff2",
+      "path": "site/assets/barlow-latin-ext-500-normal-DOaysfXq.woff2",
+      "status": 200,
+      "content_type": "font/woff2",
+      "bytes": 14416,
+      "sha256": "3facdf66b60778c7e64693013be7799e6686b2488dad65525b4036e211ab03e0",
+      "captured_at": "2026-10-31T20:58:07.889427+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"eaf61d05880b3108752a7cf712c3d688\"",
+        "Last-Modified": "Fri, 30 Oct 2026 02:45:52 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/barlow-latin-ext-600-normal-B8NK_A3D.woff2",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/barlow-latin-ext-600-normal-B8NK_A3D.woff2",
+      "path": "site/assets/barlow-latin-ext-600-normal-B8NK_A3D.woff2",
+      "status": 200,
+      "content_type": "font/woff2",
+      "bytes": 14968,
+      "sha256": "b7f099c421968b583734bc631e6706bff8fc23908112a219f5f0e37f59b03b32",
+      "captured_at": "2026-10-31T20:58:08.239435+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"7befe7b24353df93cdee32a5c9a00af3\"",
+        "Last-Modified": "Fri, 30 Oct 2026 02:45:55 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-500-normal-G0uxJNrM.woff2",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-500-normal-G0uxJNrM.woff2",
+      "path": "site/assets/barlow-semi-condensed-latin-500-normal-G0uxJNrM.woff2",
+      "status": 200,
+      "content_type": "font/woff2",
+      "bytes": 22428,
+      "sha256": "0d7513795eaf8fdab7f340144841bd2d9fac7d9303c03aa6b525a2c908e9b371",
+      "captured_at": "2026-10-31T20:57:59.794939+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"69988ca9d262d6962aedeef9ed75bfb1\"",
+        "Last-Modified": "Thu, 29 Oct 2026 22:17:20 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-600-normal-BkLiAYu4.woff2",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-600-normal-BkLiAYu4.woff2",
+      "path": "site/assets/barlow-semi-condensed-latin-600-normal-BkLiAYu4.woff2",
+      "status": 200,
+      "content_type": "font/woff2",
+      "bytes": 22984,
+      "sha256": "f158417e9207b5362f9b71a2fe779ce5bb836ad972f38445c3163af39d2c998d",
+      "captured_at": "2026-10-31T20:58:00.111806+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"64a19a7cafc251d7b15d6f3684dd0f9e\"",
+        "Last-Modified": "Thu, 29 Oct 2026 22:25:34 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-700-normal-BpqDG8I9.woff2",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-700-normal-BpqDG8I9.woff2",
+      "path": "site/assets/barlow-semi-condensed-latin-700-normal-BpqDG8I9.woff2",
+      "status": 200,
+      "content_type": "font/woff2",
+      "bytes": 23244,
+      "sha256": "fb958c8c20a05552ac8a85d925d96028d52565792650e941a5fe96b6997aa5cb",
+      "captured_at": "2026-10-31T20:58:08.555800+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"d829c77621b7b46b52baaa3e7cc81a27\"",
+        "Last-Modified": "Thu, 29 Oct 2026 23:19:39 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-ext-500-normal-BXdp1BvY.woff2",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-ext-500-normal-BXdp1BvY.woff2",
+      "path": "site/assets/barlow-semi-condensed-latin-ext-500-normal-BXdp1BvY.woff2",
+      "status": 200,
+      "content_type": "font/woff2",
+      "bytes": 14524,
+      "sha256": "5e07c7d621bb57be13250d12c8c7ba71b84c6f71ad2080bc2ee9d3dd533b3579",
+      "captured_at": "2026-10-31T20:58:08.882496+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"d761ddf5839071fc1299c3925b218f09\"",
+        "Last-Modified": "Fri, 30 Oct 2026 02:45:58 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-ext-600-normal-BkQ9hN72.woff2",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-ext-600-normal-BkQ9hN72.woff2",
+      "path": "site/assets/barlow-semi-condensed-latin-ext-600-normal-BkQ9hN72.woff2",
+      "status": 200,
+      "content_type": "font/woff2",
+      "bytes": 14848,
+      "sha256": "5a58c6c9887c7306399176e96bdeb0c2c3b2935a43f89e25ac4e342b03631843",
+      "captured_at": "2026-10-31T20:58:09.241470+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"7c6b3effbfc903a80c4f492d70d5a916\"",
+        "Last-Modified": "Fri, 30 Oct 2026 02:46:00 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-ext-700-normal-BhgEo64M.woff2",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-ext-700-normal-BhgEo64M.woff2",
+      "path": "site/assets/barlow-semi-condensed-latin-ext-700-normal-BhgEo64M.woff2",
+      "status": 200,
+      "content_type": "font/woff2",
+      "bytes": 15076,
+      "sha256": "109b73c772cc798422a6879f32c96ad646cb65f5c211933cb05f60c4fc2ab540",
+      "captured_at": "2026-10-31T20:58:09.555380+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"a5e84677fb8d21172a10232abf8bc430\"",
+        "Last-Modified": "Fri, 30 Oct 2026 02:46:01 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/de-BjleKp1j.js",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/de-BjleKp1j.js",
+      "path": "site/assets/de-BjleKp1j.js",
+      "status": 200,
+      "content_type": "application/javascript; charset=utf-8",
+      "bytes": 66814,
+      "sha256": "4ca26d91e1c45dd2d64c85193e5f4058f3c630a5a99f83f3b6d246a5f51c9274",
+      "captured_at": "2026-10-31T20:58:13.835716+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"67fca05320f65ee33e08359a7b7f2244\"",
+        "Last-Modified": "Thu, 29 Oct 2026 22:53:45 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/es-DXc-vWaP.js",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/es-DXc-vWaP.js",
+      "path": "site/assets/es-DXc-vWaP.js",
+      "status": 200,
+      "content_type": "application/javascript; charset=utf-8",
+      "bytes": 66776,
+      "sha256": "d56c1fc8a62dc758d193c4650088089d5e55ac357cf1305ad71a6dff134e7efc",
+      "captured_at": "2026-10-31T20:58:14.164464+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"904f42bd26617fbe7e776eb8e1b4ebb8\"",
+        "Last-Modified": "Thu, 29 Oct 2026 21:20:42 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/fr-fnbXGytW.js",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/fr-fnbXGytW.js",
+      "path": "site/assets/fr-fnbXGytW.js",
+      "status": 200,
+      "content_type": "application/javascript; charset=utf-8",
+      "bytes": 69276,
+      "sha256": "1bfb3c30486592b17d9c1186aed9a4d126567a23c4094c37c4b6a7fdeefe9a9d",
+      "captured_at": "2026-10-31T20:58:14.516101+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"554de030a3812bdaa5ae3c125a446fee\"",
+        "Last-Modified": "Fri, 30 Oct 2026 00:16:14 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/he-DxodrnLp.js",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/he-DxodrnLp.js",
+      "path": "site/assets/he-DxodrnLp.js",
+      "status": 200,
+      "content_type": "application/javascript; charset=utf-8",
+      "bytes": 79392,
+      "sha256": "90e59b8cb6096f40e387634036c290a0aa3918e85a759c42166de3e74aaa3864",
+      "captured_at": "2026-10-31T20:58:14.853698+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"9d3946a0df9eb04aa3c4446786cdd00d\"",
+        "Last-Modified": "Fri, 30 Oct 2026 02:45:05 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/hi-BA7shazM.js",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/hi-BA7shazM.js",
+      "path": "site/assets/hi-BA7shazM.js",
+      "status": 200,
+      "content_type": "application/javascript; charset=utf-8",
+      "bytes": 99709,
+      "sha256": "553ed61767b0d9d53f215162388460e6a740fcac61d5ae0ee1fba698eef6ab89",
+      "captured_at": "2026-10-31T20:58:15.193365+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"9413a4e3aadb19a2e2d3b09117f7e2b3\"",
+        "Last-Modified": "Fri, 30 Oct 2026 02:45:12 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/id-CNsWI0r3.js",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/id-CNsWI0r3.js",
+      "path": "site/assets/id-CNsWI0r3.js",
+      "status": 200,
+      "content_type": "application/javascript; charset=utf-8",
+      "bytes": 64949,
+      "sha256": "469e92512a7969fef63534a93f16affccbd73ce3e88d8bae892c15cf10e13592",
+      "captured_at": "2026-10-31T20:58:15.569669+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"f9d13a37850a2377d0a86937bee91293\"",
+        "Last-Modified": "Fri, 30 Oct 2026 02:45:15 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css",
+      "path": "site/assets/index-CqDNWwLj.css",
+      "status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "bytes": 63795,
+      "sha256": "b84022d4dfefa3ea4296df1b53947b457c04c1ec5ec5f0bbc75408d878667bb8",
+      "captured_at": "2026-10-31T20:58:00.483669+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"5ed3d233048bc361705b5688c61b0dd4\"",
+        "Last-Modified": "Thu, 29 Oct 2026 20:05:24 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js",
+      "path": "site/assets/index-GGrOCNGj.js",
+      "status": 200,
+      "content_type": "application/javascript; charset=utf-8",
+      "bytes": 6136,
+      "sha256": "c7c8c763c63b71c8cc8dc7b2a2f31bd909cc6e8b1c7ede5a30f573e90ba39eb6",
+      "captured_at": "2026-10-31T20:58:00.808622+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"118642ce49c405cd3e50382cec917aad\"",
+        "Last-Modified": "Thu, 29 Oct 2026 21:35:04 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/it-CS9fNRw1.js",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/it-CS9fNRw1.js",
+      "path": "site/assets/it-CS9fNRw1.js",
+      "status": 200,
+      "content_type": "application/javascript; charset=utf-8",
+      "bytes": 66746,
+      "sha256": "93584302aaa875d21a04ffd7aaa0f510b4f35d17a15cba12d8c250283c55b500",
+      "captured_at": "2026-10-31T20:58:15.924210+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"52c4c33a047dae781d7212bb69591904\"",
+        "Last-Modified": "Fri, 30 Oct 2026 02:45:19 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/ja-C33ou61z.js",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/ja-C33ou61z.js",
+      "path": "site/assets/ja-C33ou61z.js",
+      "status": 200,
+      "content_type": "application/javascript; charset=utf-8",
+      "bytes": 72120,
+      "sha256": "21144c85e2096cd66be23c30557954ce548a2b104362c86d94dcb847c982e345",
+      "captured_at": "2026-10-31T20:58:16.265268+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"be6795d0e8ac22fef83978eedb9f71ab\"",
+        "Last-Modified": "Fri, 30 Oct 2026 02:45:24 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/jetbrains-mono-latin-400-normal-V6pRDFza.woff2",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/jetbrains-mono-latin-400-normal-V6pRDFza.woff2",
+      "path": "site/assets/jetbrains-mono-latin-400-normal-V6pRDFza.woff2",
+      "status": 200,
+      "content_type": "font/woff2",
+      "bytes": 21168,
+      "sha256": "14425ba9c695763c1547f48a206b7aa60350a33ae23de09f0407877f3fcd89eb",
+      "captured_at": "2026-10-31T20:58:09.899016+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"caf0dfde4e448468f09b7bed230206a4\"",
+        "Last-Modified": "Fri, 30 Oct 2026 00:02:06 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/jetbrains-mono-latin-500-normal-BWZEU5yA.woff2",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/jetbrains-mono-latin-500-normal-BWZEU5yA.woff2",
+      "path": "site/assets/jetbrains-mono-latin-500-normal-BWZEU5yA.woff2",
+      "status": 200,
+      "content_type": "font/woff2",
+      "bytes": 21832,
+      "sha256": "cb182feeed4d798ff6961d3c79f7026279448fca0676438aaecb21f3fc39553a",
+      "captured_at": "2026-10-31T20:58:10.209669+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"a21e038a03f709cf60aa1e2944048aef\"",
+        "Last-Modified": "Thu, 29 Oct 2026 23:38:16 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/jetbrains-mono-latin-ext-400-normal-Bc8Ftmh3.woff2",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/jetbrains-mono-latin-ext-400-normal-Bc8Ftmh3.woff2",
+      "path": "site/assets/jetbrains-mono-latin-ext-400-normal-Bc8Ftmh3.woff2",
+      "status": 200,
+      "content_type": "font/woff2",
+      "bytes": 7336,
+      "sha256": "505dfba8ecbe77e82765f36d317ed7ef4ac42719dc5f4ae68d1c483fd22d0d14",
+      "captured_at": "2026-10-31T20:58:10.518250+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"443d1c3be5b2afd0e48b701779b9f43f\"",
+        "Last-Modified": "Fri, 30 Oct 2026 02:46:04 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/jetbrains-mono-latin-ext-500-normal-Cut-4mMH.woff2",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/jetbrains-mono-latin-ext-500-normal-Cut-4mMH.woff2",
+      "path": "site/assets/jetbrains-mono-latin-ext-500-normal-Cut-4mMH.woff2",
+      "status": 200,
+      "content_type": "font/woff2",
+      "bytes": 7528,
+      "sha256": "879df9319f1cbf633bee1dd489e376a9e1e8c458f4abddcfe381cb83b5e6b027",
+      "captured_at": "2026-10-31T20:58:10.836879+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"311b1217e9b014652999d637dbc8817f\"",
+        "Last-Modified": "Fri, 30 Oct 2026 02:46:07 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/kit-DXbMhk_I.js",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/kit-DXbMhk_I.js",
+      "path": "site/assets/kit-DXbMhk_I.js",
+      "status": 200,
+      "content_type": "application/javascript; charset=utf-8",
+      "bytes": 316523,
+      "sha256": "0a4a9d07bc450a9c87d4106ea800034d0e2a14ae8c3a9dccac28d346431e9405",
+      "captured_at": "2026-10-31T20:58:29.048887+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"f55324f3aa7b2346ba3e39ef18224e76\"",
+        "Last-Modified": "Thu, 29 Oct 2026 21:29:26 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/ko-prcWXKny.js",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/ko-prcWXKny.js",
+      "path": "site/assets/ko-prcWXKny.js",
+      "status": 200,
+      "content_type": "application/javascript; charset=utf-8",
+      "bytes": 68486,
+      "sha256": "4f387588fcb09cf1e82fafdb311889f1306321dec7b1fffab3bf90199591efa7",
+      "captured_at": "2026-10-31T20:58:16.627335+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"2b4010129eb5dcad287b15dbc39185b8\"",
+        "Last-Modified": "Fri, 30 Oct 2026 02:45:26 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/main-Bvl_zo-E.js",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/main-Bvl_zo-E.js",
+      "path": "site/assets/main-Bvl_zo-E.js",
+      "status": 200,
+      "content_type": "application/javascript; charset=utf-8",
+      "bytes": 131725,
+      "sha256": "6e911cbdf62e4148df4afcdaff9870f41043bf150fa05ab80a1bece3bd207271",
+      "captured_at": "2026-10-31T20:58:20.706550+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"23b0955b3849f94403f00b7b3dddb8c7\"",
+        "Last-Modified": "Thu, 29 Oct 2026 22:08:02 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/noto-sans-devanagari-devanagari-400-normal-BlDd6KY1.woff2",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/noto-sans-devanagari-devanagari-400-normal-BlDd6KY1.woff2",
+      "path": "site/assets/noto-sans-devanagari-devanagari-400-normal-BlDd6KY1.woff2",
+      "status": 200,
+      "content_type": "font/woff2",
+      "bytes": 50416,
+      "sha256": "f86f14cbd1004f5795689ee9cc70d5d87d915f5135b30283525c1c7b8f0eb192",
+      "captured_at": "2026-10-31T20:58:11.181263+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"47419de6efcd5d83d2dd25764f4faa49\"",
+        "Last-Modified": "Fri, 30 Oct 2026 02:46:13 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/noto-sans-devanagari-devanagari-500-normal-DVtwyDnM.woff2",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/noto-sans-devanagari-devanagari-500-normal-DVtwyDnM.woff2",
+      "path": "site/assets/noto-sans-devanagari-devanagari-500-normal-DVtwyDnM.woff2",
+      "status": 200,
+      "content_type": "font/woff2",
+      "bytes": 53620,
+      "sha256": "c9e45ff29dddc46bdb85b0cb97922fde980ae2fcafadee4498ff25bd0448292f",
+      "captured_at": "2026-10-31T20:58:11.542906+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"159c830700556b01f65eef60eb6515b7\"",
+        "Last-Modified": "Fri, 30 Oct 2026 02:46:14 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/noto-sans-devanagari-devanagari-600-normal-BeyktMLo.woff2",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/noto-sans-devanagari-devanagari-600-normal-BeyktMLo.woff2",
+      "path": "site/assets/noto-sans-devanagari-devanagari-600-normal-BeyktMLo.woff2",
+      "status": 200,
+      "content_type": "font/woff2",
+      "bytes": 53716,
+      "sha256": "fcfcaacda204a9fc447b54adfef68815558c34ddf2975dd82662870a20df07dc",
+      "captured_at": "2026-10-31T20:58:11.907836+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"d32a37f27793bdadb1eec05cce38ce0f\"",
+        "Last-Modified": "Thu, 29 Oct 2026 20:11:32 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/noto-sans-devanagari-devanagari-700-normal-v9jliTCB.woff2",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/noto-sans-devanagari-devanagari-700-normal-v9jliTCB.woff2",
+      "path": "site/assets/noto-sans-devanagari-devanagari-700-normal-v9jliTCB.woff2",
+      "status": 200,
+      "content_type": "font/woff2",
+      "bytes": 53984,
+      "sha256": "6a68069c959d7f3c02f4062dd9be85327448b5d753e95455b1c0320f37f68fc1",
+      "captured_at": "2026-10-31T20:58:12.247775+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"156a9f030b36110e7d7284b646939a6a\"",
+        "Last-Modified": "Fri, 30 Oct 2026 00:32:21 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/noto-sans-hebrew-hebrew-400-normal-Bp0xVS9x.woff2",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/noto-sans-hebrew-hebrew-400-normal-Bp0xVS9x.woff2",
+      "path": "site/assets/noto-sans-hebrew-hebrew-400-normal-Bp0xVS9x.woff2",
+      "status": 200,
+      "content_type": "font/woff2",
+      "bytes": 7068,
+      "sha256": "330b5c315ebac6a102bea95898207a4fdae4a6180d27783dfbb2a700deb61845",
+      "captured_at": "2026-10-31T20:58:12.576972+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"004259aca8e0de5746baca504ca26e5e\"",
+        "Last-Modified": "Fri, 30 Oct 2026 02:46:20 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/noto-sans-hebrew-hebrew-500-normal-FWawh3rc.woff2",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/noto-sans-hebrew-hebrew-500-normal-FWawh3rc.woff2",
+      "path": "site/assets/noto-sans-hebrew-hebrew-500-normal-FWawh3rc.woff2",
+      "status": 200,
+      "content_type": "font/woff2",
+      "bytes": 6980,
+      "sha256": "c22c580d98a9f3fc8733bf00b7373d924ab2287f5fa6a8dde874a58923a116de",
+      "captured_at": "2026-10-31T20:58:12.876140+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"028976d6020e207458c2111c310fbf7a\"",
+        "Last-Modified": "Fri, 30 Oct 2026 02:46:22 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/noto-sans-hebrew-hebrew-600-normal-BZTJana4.woff2",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/noto-sans-hebrew-hebrew-600-normal-BZTJana4.woff2",
+      "path": "site/assets/noto-sans-hebrew-hebrew-600-normal-BZTJana4.woff2",
+      "status": 200,
+      "content_type": "font/woff2",
+      "bytes": 7072,
+      "sha256": "6d5ef398060957c6eada76470717c23f1e3286f677ef15c1aa3064549eb05aa1",
+      "captured_at": "2026-10-31T20:58:13.189325+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"baa05a6ca439118df92f5dcc58ce3882\"",
+        "Last-Modified": "Fri, 30 Oct 2026 00:27:38 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/noto-sans-hebrew-hebrew-700-normal-D9plwkIl.woff2",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/noto-sans-hebrew-hebrew-700-normal-D9plwkIl.woff2",
+      "path": "site/assets/noto-sans-hebrew-hebrew-700-normal-D9plwkIl.woff2",
+      "status": 200,
+      "content_type": "font/woff2",
+      "bytes": 7040,
+      "sha256": "09d244bd91527d88c47f4831bbbd90cec4013c1c59dea25744bdd2b063c7777c",
+      "captured_at": "2026-10-31T20:58:13.496145+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"59667e3cb0dd42a96761cf31093e9dbb\"",
+        "Last-Modified": "Thu, 29 Oct 2026 21:02:41 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/pt-DAdBr9jW.js",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/pt-DAdBr9jW.js",
+      "path": "site/assets/pt-DAdBr9jW.js",
+      "status": 200,
+      "content_type": "application/javascript; charset=utf-8",
+      "bytes": 65677,
+      "sha256": "915720425d15574b71ecd87780727c1740b253cf55aa7191cd0d9d42f8545e5c",
+      "captured_at": "2026-10-31T20:58:21.098589+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"fc236a20291c86559704058488ac06a6\"",
+        "Last-Modified": "Thu, 29 Oct 2026 22:38:27 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/stage-QLKhHYHN.js",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/stage-QLKhHYHN.js",
+      "path": "site/assets/stage-QLKhHYHN.js",
+      "status": 200,
+      "content_type": "application/javascript; charset=utf-8",
+      "bytes": 424589,
+      "sha256": "d82c1cb5a543fada4a2c4b7fa6f88f7893bb6ef0d8757f2fc7c237c1f56e3440",
+      "captured_at": "2026-10-31T20:58:28.319906+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"885845bf02e85edad0b8d77fd4caa23b\"",
+        "Last-Modified": "Thu, 29 Oct 2026 23:36:52 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/thumbs-DPauGRHu.js",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/thumbs-DPauGRHu.js",
+      "path": "site/assets/thumbs-DPauGRHu.js",
+      "status": 200,
+      "content_type": "application/javascript; charset=utf-8",
+      "bytes": 4975,
+      "sha256": "833c5cacc84d1195d60b9164f5bb05571e18463bdfc36b5f29215dd0c49dc783",
+      "captured_at": "2026-10-31T20:58:28.640629+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"b7b408f8344530cbeced403cb7b1001a\"",
+        "Last-Modified": "Thu, 29 Oct 2026 20:06:52 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/tr-Du5Em3hV.js",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/tr-Du5Em3hV.js",
+      "path": "site/assets/tr-Du5Em3hV.js",
+      "status": 200,
+      "content_type": "application/javascript; charset=utf-8",
+      "bytes": 66018,
+      "sha256": "59662db943baa06964590966cff4df1bb7bc4933d338b95e841f9f276a0922dc",
+      "captured_at": "2026-10-31T20:58:21.466892+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"81516f500d25095dfd8fb50d3ab62268\"",
+        "Last-Modified": "Fri, 30 Oct 2026 02:45:37 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/zh-DawrnNnG.js",
+      "final_url": "https://learn-arduino-red.vercel.app/assets/zh-DawrnNnG.js",
+      "path": "site/assets/zh-DawrnNnG.js",
+      "status": 200,
+      "content_type": "application/javascript; charset=utf-8",
+      "bytes": 62279,
+      "sha256": "9a685f62fab0fa784eab67f8c51b1fe7f0a2d7880bd48836f0f90c27355919cc",
+      "captured_at": "2026-10-31T20:58:21.854944+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable",
+        "Etag": "\"791794b873b389332c1803a0669d424c\"",
+        "Last-Modified": "Thu, 29 Oct 2026 21:05:41 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/de/",
+      "final_url": "https://learn-arduino-red.vercel.app/de/",
+      "path": "site/de/index.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 21831,
+      "sha256": "5f4b49b978691a547c90c66966411a76483ec78a59b689e0b48ae2e365aaaf73",
+      "captured_at": "2026-10-31T20:58:02.052548+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Etag": "\"dd684e846fa7c36dba61b965da9bb7d7\"",
+        "Last-Modified": "Thu, 29 Oct 2026 22:46:07 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/es/",
+      "final_url": "https://learn-arduino-red.vercel.app/es/",
+      "path": "site/es/index.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 21639,
+      "sha256": "8de9d3f57219bc8154fa9ed237b8117b021ae248218d5273cf62fa60264973cd",
+      "captured_at": "2026-10-31T20:58:02.379527+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Etag": "\"26b5898ca0b9d716213f36f164698661\"",
+        "Last-Modified": "Thu, 29 Oct 2026 22:42:58 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/favicon.ico",
+      "final_url": "https://learn-arduino-red.vercel.app/favicon.ico",
+      "path": "site/favicon.ico",
+      "status": 200,
+      "content_type": "image/vnd.microsoft.icon",
+      "bytes": 3691,
+      "sha256": "2dc6a8d24f757a082cfd0d16ccdf27de48401453760b85a37607b91403cfb729",
+      "captured_at": "2026-10-31T20:58:01.118344+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Etag": "\"2d6f3628e212268465db1035f48a3311\"",
+        "Last-Modified": "Thu, 29 Oct 2026 19:17:37 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/favicon.svg",
+      "final_url": "https://learn-arduino-red.vercel.app/favicon.svg",
+      "path": "site/favicon.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 366,
+      "sha256": "7432de663432ab34377d11b7f733af8b30241904750366e43eecd55f38887d4d",
+      "captured_at": "2026-10-31T20:58:01.428096+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Etag": "\"682e70c7784fc94114b02a9481b18eb9\"",
+        "Last-Modified": "Fri, 30 Oct 2026 00:09:45 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/fr/",
+      "final_url": "https://learn-arduino-red.vercel.app/fr/",
+      "path": "site/fr/index.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 22012,
+      "sha256": "cd0a65ec5350d05550d3149f0e851effdc39ca596a2850cc8d1df86917a9b612",
+      "captured_at": "2026-10-31T20:58:02.687705+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Etag": "\"04ed65796c09db2e86701a033fa7ef37\"",
+        "Last-Modified": "Thu, 29 Oct 2026 22:11:02 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/he/",
+      "final_url": "https://learn-arduino-red.vercel.app/he/",
+      "path": "site/he/index.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 23198,
+      "sha256": "c9e66efdb6ea677bd08e4e8abbb006e22fc0534934f3b180c3cc9dcbf3445dfa",
+      "captured_at": "2026-10-31T20:58:03.013042+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Etag": "\"726b270c18ff31cc2055370ff7314fd0\"",
+        "Last-Modified": "Thu, 29 Oct 2026 21:30:33 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/hi/",
+      "final_url": "https://learn-arduino-red.vercel.app/hi/",
+      "path": "site/hi/index.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 26078,
+      "sha256": "3d2eb4d1fc9db2266496a3e27c8156f73ebff7c28cb2852d69646df49100f761",
+      "captured_at": "2026-10-31T20:58:03.335281+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Etag": "\"0fc09d5c2a03f42e021c1702a4b331c7\"",
+        "Last-Modified": "Fri, 30 Oct 2026 11:15:22 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/icon-192.png",
+      "final_url": "https://learn-arduino-red.vercel.app/icon-192.png",
+      "path": "site/icon-192.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 7215,
+      "sha256": "0f431d3b85c5d96a555499ca8800a48e5ef616b5d914db128713fcb1b762622b",
+      "captured_at": "2026-10-31T20:58:22.184726+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Etag": "\"a384afb3bfec8c37863a1bea03ac98d3\"",
+        "Last-Modified": "Thu, 29 Oct 2026 20:35:40 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/icon-512.png",
+      "final_url": "https://learn-arduino-red.vercel.app/icon-512.png",
+      "path": "site/icon-512.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 20689,
+      "sha256": "4ffc2194bf40915bcf9c7f1fda90426db9b0f668ca19ca1610a5a952f1eee116",
+      "captured_at": "2026-10-31T20:58:22.485283+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Etag": "\"98504cedfaf84f9d30ccb0a9a5e89803\"",
+        "Last-Modified": "Thu, 29 Oct 2026 22:34:52 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/icon-maskable-512.png",
+      "final_url": "https://learn-arduino-red.vercel.app/icon-maskable-512.png",
+      "path": "site/icon-maskable-512.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 12644,
+      "sha256": "333ead1b46a521237687b401ed17d27c3ee8307fba5f2384ed3ad47f31878e22",
+      "captured_at": "2026-10-31T20:58:22.791683+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Etag": "\"95c514f4318f97762480ee1dfad19048\"",
+        "Last-Modified": "Thu, 29 Oct 2026 20:14:41 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/id/",
+      "final_url": "https://learn-arduino-red.vercel.app/id/",
+      "path": "site/id/index.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 21365,
+      "sha256": "dc38d34f51c751f97be0021b6e716c0cee8095d3c52f5b5e21a8661de4c093f8",
+      "captured_at": "2026-10-31T20:58:03.663781+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Etag": "\"1c76e8d8492f05eb252da12a7ae4e2fa\"",
+        "Last-Modified": "Fri, 30 Oct 2026 01:59:21 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/",
+      "final_url": "https://learn-arduino-red.vercel.app/",
+      "path": "site/index.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 21052,
+      "sha256": "4073b7aef185a734544efd07bd328da36a144b522831126d8c4934a32ed14290",
+      "captured_at": "2026-10-31T20:57:58.151132+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Etag": "\"df30cb62b2fdcef3d41608bab03ffa70\"",
+        "Last-Modified": "Thu, 29 Oct 2026 21:29:25 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/it/",
+      "final_url": "https://learn-arduino-red.vercel.app/it/",
+      "path": "site/it/index.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 21632,
+      "sha256": "21657e6bd17e4f2f359bfddd616ce1436011ce29d4e724ee2f6f4b426a9fbc97",
+      "captured_at": "2026-10-31T20:58:03.996176+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Etag": "\"bea50e892c393997d1f32c1a9b4e9a60\"",
+        "Last-Modified": "Fri, 30 Oct 2026 06:22:35 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/ja/",
+      "final_url": "https://learn-arduino-red.vercel.app/ja/",
+      "path": "site/ja/index.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 22157,
+      "sha256": "de2edd0a290b6b6a75c7feb69170356dad3341653780209810f57d98ebb7b62d",
+      "captured_at": "2026-10-31T20:58:04.311328+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Etag": "\"20ba99f7e98dd32df94fc9103dbfb939\"",
+        "Last-Modified": "Fri, 30 Oct 2026 06:22:07 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/ko/",
+      "final_url": "https://learn-arduino-red.vercel.app/ko/",
+      "path": "site/ko/index.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 21574,
+      "sha256": "74d9f90accf5e4e59abcb742b116c50e41f971f63cbf734a0b9a3e7f0ac58103",
+      "captured_at": "2026-10-31T20:58:04.897040+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Etag": "\"bbe65b4a2aafb8af9232a2e4edbaeefd\"",
+        "Last-Modified": "Sat, 31 Oct 2026 20:58:05 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/og-image-de.png",
+      "final_url": "https://learn-arduino-red.vercel.app/og-image-de.png",
+      "path": "site/og-image-de.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 281780,
+      "sha256": "c3b23fce7f11ae645c47d3986e3dd601396f1e5b020559662da97403409cf0dd",
+      "captured_at": "2026-10-31T20:58:23.236115+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Etag": "\"ab3165aaedfe75ecf8e751745ac62214\"",
+        "Last-Modified": "Sat, 31 Oct 2026 20:58:23 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/og-image-es.png",
+      "final_url": "https://learn-arduino-red.vercel.app/og-image-es.png",
+      "path": "site/og-image-es.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 287516,
+      "sha256": "1ee2b3fe0aff62300db26948400f65453ce53618f30452185be52caf902635f8",
+      "captured_at": "2026-10-31T20:58:23.618945+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Etag": "\"e1a6ea605ed537eb44854c512f72761c\"",
+        "Last-Modified": "Fri, 30 Oct 2026 11:17:58 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/og-image-fr.png",
+      "final_url": "https://learn-arduino-red.vercel.app/og-image-fr.png",
+      "path": "site/og-image-fr.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 284257,
+      "sha256": "ac07c3750879a603f02b502e08335e65d953598764685a06b89b6cd6411dbe5c",
+      "captured_at": "2026-10-31T20:58:24.109565+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Etag": "\"929d27adfd4ffa539a85b65725342cab\"",
+        "Last-Modified": "Fri, 30 Oct 2026 00:14:40 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/og-image-he.png",
+      "final_url": "https://learn-arduino-red.vercel.app/og-image-he.png",
+      "path": "site/og-image-he.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 276011,
+      "sha256": "e7ac516539a0d8f89cab2c53307cff0f45b78439a41255db2bdd8c488899cffa",
+      "captured_at": "2026-10-31T20:58:24.573863+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Etag": "\"c12f3ae6b43cfed1991d5ef08e178691\"",
+        "Last-Modified": "Sat, 31 Oct 2026 20:58:25 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/og-image-hi.png",
+      "final_url": "https://learn-arduino-red.vercel.app/og-image-hi.png",
+      "path": "site/og-image-hi.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 282721,
+      "sha256": "f68f3604e9fd7408a05addf48422b287ce0e79ad76778459fef52d3cb915ba0e",
+      "captured_at": "2026-10-31T20:58:25.016498+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Etag": "\"780c7f9333174aaee9f06c9bb4f177f7\"",
+        "Last-Modified": "Sat, 31 Oct 2026 20:58:25 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/og-image-id.png",
+      "final_url": "https://learn-arduino-red.vercel.app/og-image-id.png",
+      "path": "site/og-image-id.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 279907,
+      "sha256": "6916fa8db5294b4a556d312413b1a4fa6796f659472bc9d0af60461d961dc1ca",
+      "captured_at": "2026-10-31T20:58:25.405906+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Etag": "\"9bac8cad14510d2ef278e09b588caf36\"",
+        "Last-Modified": "Fri, 30 Oct 2026 07:25:37 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/og-image-it.png",
+      "final_url": "https://learn-arduino-red.vercel.app/og-image-it.png",
+      "path": "site/og-image-it.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 287725,
+      "sha256": "fe902a2f522ca589aed76dff69991e060e4351586663da2eac834edf5f8eefad",
+      "captured_at": "2026-10-31T20:58:25.804792+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Etag": "\"50eae239ec7a0e6e1f67e01b59163a19\"",
+        "Last-Modified": "Fri, 30 Oct 2026 00:56:22 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/og-image-ja.png",
+      "final_url": "https://learn-arduino-red.vercel.app/og-image-ja.png",
+      "path": "site/og-image-ja.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 288058,
+      "sha256": "966e0eb2166d1d3e6734856a7feafc4890a1c4a0467629277af7016d4e239e68",
+      "captured_at": "2026-10-31T20:58:26.196803+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Etag": "\"4c6896db9112b392bde74af94bf524bb\"",
+        "Last-Modified": "Fri, 30 Oct 2026 08:57:57 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/og-image-ko.png",
+      "final_url": "https://learn-arduino-red.vercel.app/og-image-ko.png",
+      "path": "site/og-image-ko.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 274143,
+      "sha256": "61c29d5afdc4e4958e189dd7e71dc1c24821e4f97edd3c7a93bff0816c59b2cb",
+      "captured_at": "2026-10-31T20:58:26.657948+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Etag": "\"7970ebd9eefbf8adba69bb059398a5c5\"",
+        "Last-Modified": "Sat, 31 Oct 2026 20:58:27 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/og-image-pt.png",
+      "final_url": "https://learn-arduino-red.vercel.app/og-image-pt.png",
+      "path": "site/og-image-pt.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 283310,
+      "sha256": "48425480347a0ef9560991e1d10305f357eb7247f7a419c5600cdb2e21f78262",
+      "captured_at": "2026-10-31T20:58:27.089741+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Etag": "\"c25e6199d11afd7d7af276d0f6ba0f75\"",
+        "Last-Modified": "Thu, 29 Oct 2026 21:04:06 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/og-image-tr.png",
+      "final_url": "https://learn-arduino-red.vercel.app/og-image-tr.png",
+      "path": "site/og-image-tr.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 280571,
+      "sha256": "5314ecc18419a13d7e88f85960dcca856d07dcb50ab18bcdee5146fd4a19403e",
+      "captured_at": "2026-10-31T20:58:27.476839+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Etag": "\"6c8a50d3527c5d02399ef5bd4348edec\"",
+        "Last-Modified": "Sat, 31 Oct 2026 05:55:03 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/og-image-zh.png",
+      "final_url": "https://learn-arduino-red.vercel.app/og-image-zh.png",
+      "path": "site/og-image-zh.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 283639,
+      "sha256": "b98e5e1aafec23c6ebd142ca4d9693d0e8633bc13f2ec67cf439ac7d2bfaf6a6",
+      "captured_at": "2026-10-31T20:58:27.902196+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Etag": "\"712cfcb37cf2ccc1a39516c7d1fd3fbe\"",
+        "Last-Modified": "Thu, 29 Oct 2026 23:11:28 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/og-image.png",
+      "final_url": "https://learn-arduino-red.vercel.app/og-image.png",
+      "path": "site/og-image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 278384,
+      "sha256": "067d73982c12fb463836f637cc67df8de1ea1af16febc2a8c456f38ae7aa0863",
+      "captured_at": "2026-10-31T20:58:05.277155+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Etag": "\"8bd7ad74fc6bb645b928410f11140ab1\"",
+        "Last-Modified": "Thu, 29 Oct 2026 21:42:25 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/pt/",
+      "final_url": "https://learn-arduino-red.vercel.app/pt/",
+      "path": "site/pt/index.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 21517,
+      "sha256": "d8535e1336dd3704f937953be32b69e5e825d608d716f0e912cc8d175622e767",
+      "captured_at": "2026-10-31T20:58:05.615636+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Etag": "\"b7526b3a7224e8839c28c55ee8e137c5\"",
+        "Last-Modified": "Sat, 24 Oct 2026 10:19:27 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/robots.txt",
+      "final_url": "https://learn-arduino-red.vercel.app/robots.txt",
+      "path": "site/robots.txt",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "bytes": 82,
+      "sha256": "f75a64b8029e95e58d6d218a036985ce8bc89cbd6719954dcb521f3217f7ebcd",
+      "captured_at": "2026-10-31T20:57:58.797191+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Etag": "\"638119a8b8662c68047d02887610ad43\"",
+        "Last-Modified": "Thu, 29 Oct 2026 22:51:30 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/site.webmanifest",
+      "final_url": "https://learn-arduino-red.vercel.app/site.webmanifest",
+      "path": "site/site.webmanifest",
+      "status": 200,
+      "content_type": "application/manifest+json; charset=utf-8",
+      "bytes": 713,
+      "sha256": "8b15eb5d64a12a4d6e0c2ef1c9cdef5c72649a4fb23cf670198e5d2fa6961873",
+      "captured_at": "2026-10-31T20:58:01.742312+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Etag": "\"eec226d6daeda889ce2d52d360fb9f14\"",
+        "Last-Modified": "Thu, 29 Oct 2026 20:59:50 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/sitemap.xml",
+      "final_url": "https://learn-arduino-red.vercel.app/sitemap.xml",
+      "path": "site/sitemap.xml",
+      "status": 200,
+      "content_type": "application/xml",
+      "bytes": 17960,
+      "sha256": "1c7a3469066523f05ebe172d7ba5e5fd6e0030c4af830428dc26c51aba38003a",
+      "captured_at": "2026-10-31T20:57:59.152747+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Etag": "\"a1487c355d6f355da58128be00793f5e\"",
+        "Last-Modified": "Fri, 30 Oct 2026 05:36:32 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/tr/",
+      "final_url": "https://learn-arduino-red.vercel.app/tr/",
+      "path": "site/tr/index.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 21801,
+      "sha256": "2115a2d626925fbc329aecb793d44199c93a1416ed5d3f3c94f50e578e8df2a4",
+      "captured_at": "2026-10-31T20:58:05.948637+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Etag": "\"c1561fb39372555e29515edbe2453b0c\"",
+        "Last-Modified": "Thu, 29 Oct 2026 21:30:33 GMT"
+      }
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/zh/",
+      "final_url": "https://learn-arduino-red.vercel.app/zh/",
+      "path": "site/zh/index.html",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 21079,
+      "sha256": "ce2c3dfee7670e4ca38eddce10521eb0ab0d0bc0cb5769e5374853fee0279207",
+      "captured_at": "2026-10-31T20:58:06.268564+00:00",
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Etag": "\"ab2c4b019caf0e3434ecdf97d8eaa6e5\"",
+        "Last-Modified": "Thu, 29 Oct 2026 23:11:28 GMT"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "from": "https://learn-arduino-red.vercel.app/",
+      "to": "https://learn-arduino-red.vercel.app/apple-touch-icon.png"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-500-normal-G0uxJNrM.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-600-normal-BkLiAYu4.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/",
+      "to": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/",
+      "to": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/",
+      "to": "https://learn-arduino-red.vercel.app/favicon.ico"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/",
+      "to": "https://learn-arduino-red.vercel.app/favicon.svg"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/",
+      "to": "https://learn-arduino-red.vercel.app/site.webmanifest"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/",
+      "to": "https://learn-arduino-red.vercel.app/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/",
+      "to": "https://learn-arduino-red.vercel.app/de/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/",
+      "to": "https://learn-arduino-red.vercel.app/es/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/",
+      "to": "https://learn-arduino-red.vercel.app/fr/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/",
+      "to": "https://learn-arduino-red.vercel.app/he/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/",
+      "to": "https://learn-arduino-red.vercel.app/hi/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/",
+      "to": "https://learn-arduino-red.vercel.app/id/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/",
+      "to": "https://learn-arduino-red.vercel.app/it/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/",
+      "to": "https://learn-arduino-red.vercel.app/ja/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/",
+      "to": "https://learn-arduino-red.vercel.app/ko/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/",
+      "to": "https://learn-arduino-red.vercel.app/og-image.png"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/",
+      "to": "https://learn-arduino-red.vercel.app/pt/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/",
+      "to": "https://learn-arduino-red.vercel.app/tr/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/",
+      "to": "https://learn-arduino-red.vercel.app/zh/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-latin-400-normal-qiz4-Cze.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-latin-500-normal-BPAOfeC8.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-latin-600-normal-DILqtrty.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-latin-ext-400-normal-HxX4XjxC.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-latin-ext-500-normal-DOaysfXq.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-latin-ext-600-normal-B8NK_A3D.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-500-normal-G0uxJNrM.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-600-normal-BkLiAYu4.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-700-normal-BpqDG8I9.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-ext-500-normal-BXdp1BvY.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-ext-600-normal-BkQ9hN72.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-ext-700-normal-BhgEo64M.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css",
+      "to": "https://learn-arduino-red.vercel.app/assets/jetbrains-mono-latin-400-normal-V6pRDFza.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css",
+      "to": "https://learn-arduino-red.vercel.app/assets/jetbrains-mono-latin-500-normal-BWZEU5yA.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css",
+      "to": "https://learn-arduino-red.vercel.app/assets/jetbrains-mono-latin-ext-400-normal-Bc8Ftmh3.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css",
+      "to": "https://learn-arduino-red.vercel.app/assets/jetbrains-mono-latin-ext-500-normal-Cut-4mMH.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css",
+      "to": "https://learn-arduino-red.vercel.app/assets/noto-sans-devanagari-devanagari-400-normal-BlDd6KY1.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css",
+      "to": "https://learn-arduino-red.vercel.app/assets/noto-sans-devanagari-devanagari-500-normal-DVtwyDnM.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css",
+      "to": "https://learn-arduino-red.vercel.app/assets/noto-sans-devanagari-devanagari-600-normal-BeyktMLo.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css",
+      "to": "https://learn-arduino-red.vercel.app/assets/noto-sans-devanagari-devanagari-700-normal-v9jliTCB.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css",
+      "to": "https://learn-arduino-red.vercel.app/assets/noto-sans-hebrew-hebrew-400-normal-Bp0xVS9x.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css",
+      "to": "https://learn-arduino-red.vercel.app/assets/noto-sans-hebrew-hebrew-500-normal-FWawh3rc.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css",
+      "to": "https://learn-arduino-red.vercel.app/assets/noto-sans-hebrew-hebrew-600-normal-BZTJana4.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css",
+      "to": "https://learn-arduino-red.vercel.app/assets/noto-sans-hebrew-hebrew-700-normal-D9plwkIl.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/de-BjleKp1j.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/es-DXc-vWaP.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/fr-fnbXGytW.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/he-DxodrnLp.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/hi-BA7shazM.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/id-CNsWI0r3.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/it-CS9fNRw1.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/ja-C33ou61z.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/ko-prcWXKny.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/locales/de.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/locales/es.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/locales/fr.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/locales/he.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/locales/hi.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/locales/id.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/locales/it.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/locales/ja.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/locales/ko.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/locales/pt.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/locales/tr.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/locales/zh.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/main-Bvl_zo-E.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/pt-DAdBr9jW.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/tr-Du5Em3hV.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/zh-DawrnNnG.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/site.webmanifest",
+      "to": "https://learn-arduino-red.vercel.app/favicon.svg"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/site.webmanifest",
+      "to": "https://learn-arduino-red.vercel.app/icon-192.png"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/site.webmanifest",
+      "to": "https://learn-arduino-red.vercel.app/icon-512.png"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/site.webmanifest",
+      "to": "https://learn-arduino-red.vercel.app/icon-maskable-512.png"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/de/",
+      "to": "https://learn-arduino-red.vercel.app/apple-touch-icon.png"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/de/",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-500-normal-G0uxJNrM.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/de/",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-600-normal-BkLiAYu4.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/de/",
+      "to": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/de/",
+      "to": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/de/",
+      "to": "https://learn-arduino-red.vercel.app/favicon.ico"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/de/",
+      "to": "https://learn-arduino-red.vercel.app/favicon.svg"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/de/",
+      "to": "https://learn-arduino-red.vercel.app/site.webmanifest"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/de/",
+      "to": "https://learn-arduino-red.vercel.app/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/de/",
+      "to": "https://learn-arduino-red.vercel.app/de/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/de/",
+      "to": "https://learn-arduino-red.vercel.app/es/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/de/",
+      "to": "https://learn-arduino-red.vercel.app/fr/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/de/",
+      "to": "https://learn-arduino-red.vercel.app/he/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/de/",
+      "to": "https://learn-arduino-red.vercel.app/hi/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/de/",
+      "to": "https://learn-arduino-red.vercel.app/id/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/de/",
+      "to": "https://learn-arduino-red.vercel.app/it/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/de/",
+      "to": "https://learn-arduino-red.vercel.app/ja/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/de/",
+      "to": "https://learn-arduino-red.vercel.app/ko/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/de/",
+      "to": "https://learn-arduino-red.vercel.app/og-image-de.png"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/de/",
+      "to": "https://learn-arduino-red.vercel.app/pt/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/de/",
+      "to": "https://learn-arduino-red.vercel.app/tr/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/de/",
+      "to": "https://learn-arduino-red.vercel.app/zh/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/es/",
+      "to": "https://learn-arduino-red.vercel.app/apple-touch-icon.png"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/es/",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-500-normal-G0uxJNrM.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/es/",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-600-normal-BkLiAYu4.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/es/",
+      "to": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/es/",
+      "to": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/es/",
+      "to": "https://learn-arduino-red.vercel.app/favicon.ico"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/es/",
+      "to": "https://learn-arduino-red.vercel.app/favicon.svg"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/es/",
+      "to": "https://learn-arduino-red.vercel.app/site.webmanifest"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/es/",
+      "to": "https://learn-arduino-red.vercel.app/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/es/",
+      "to": "https://learn-arduino-red.vercel.app/de/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/es/",
+      "to": "https://learn-arduino-red.vercel.app/es/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/es/",
+      "to": "https://learn-arduino-red.vercel.app/fr/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/es/",
+      "to": "https://learn-arduino-red.vercel.app/he/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/es/",
+      "to": "https://learn-arduino-red.vercel.app/hi/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/es/",
+      "to": "https://learn-arduino-red.vercel.app/id/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/es/",
+      "to": "https://learn-arduino-red.vercel.app/it/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/es/",
+      "to": "https://learn-arduino-red.vercel.app/ja/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/es/",
+      "to": "https://learn-arduino-red.vercel.app/ko/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/es/",
+      "to": "https://learn-arduino-red.vercel.app/og-image-es.png"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/es/",
+      "to": "https://learn-arduino-red.vercel.app/pt/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/es/",
+      "to": "https://learn-arduino-red.vercel.app/tr/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/es/",
+      "to": "https://learn-arduino-red.vercel.app/zh/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/fr/",
+      "to": "https://learn-arduino-red.vercel.app/apple-touch-icon.png"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/fr/",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-500-normal-G0uxJNrM.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/fr/",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-600-normal-BkLiAYu4.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/fr/",
+      "to": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/fr/",
+      "to": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/fr/",
+      "to": "https://learn-arduino-red.vercel.app/favicon.ico"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/fr/",
+      "to": "https://learn-arduino-red.vercel.app/favicon.svg"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/fr/",
+      "to": "https://learn-arduino-red.vercel.app/site.webmanifest"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/fr/",
+      "to": "https://learn-arduino-red.vercel.app/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/fr/",
+      "to": "https://learn-arduino-red.vercel.app/de/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/fr/",
+      "to": "https://learn-arduino-red.vercel.app/es/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/fr/",
+      "to": "https://learn-arduino-red.vercel.app/fr/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/fr/",
+      "to": "https://learn-arduino-red.vercel.app/he/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/fr/",
+      "to": "https://learn-arduino-red.vercel.app/hi/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/fr/",
+      "to": "https://learn-arduino-red.vercel.app/id/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/fr/",
+      "to": "https://learn-arduino-red.vercel.app/it/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/fr/",
+      "to": "https://learn-arduino-red.vercel.app/ja/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/fr/",
+      "to": "https://learn-arduino-red.vercel.app/ko/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/fr/",
+      "to": "https://learn-arduino-red.vercel.app/og-image-fr.png"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/fr/",
+      "to": "https://learn-arduino-red.vercel.app/pt/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/fr/",
+      "to": "https://learn-arduino-red.vercel.app/tr/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/fr/",
+      "to": "https://learn-arduino-red.vercel.app/zh/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/he/",
+      "to": "https://learn-arduino-red.vercel.app/apple-touch-icon.png"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/he/",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-500-normal-G0uxJNrM.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/he/",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-600-normal-BkLiAYu4.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/he/",
+      "to": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/he/",
+      "to": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/he/",
+      "to": "https://learn-arduino-red.vercel.app/favicon.ico"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/he/",
+      "to": "https://learn-arduino-red.vercel.app/favicon.svg"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/he/",
+      "to": "https://learn-arduino-red.vercel.app/site.webmanifest"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/he/",
+      "to": "https://learn-arduino-red.vercel.app/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/he/",
+      "to": "https://learn-arduino-red.vercel.app/de/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/he/",
+      "to": "https://learn-arduino-red.vercel.app/es/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/he/",
+      "to": "https://learn-arduino-red.vercel.app/fr/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/he/",
+      "to": "https://learn-arduino-red.vercel.app/he/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/he/",
+      "to": "https://learn-arduino-red.vercel.app/hi/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/he/",
+      "to": "https://learn-arduino-red.vercel.app/id/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/he/",
+      "to": "https://learn-arduino-red.vercel.app/it/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/he/",
+      "to": "https://learn-arduino-red.vercel.app/ja/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/he/",
+      "to": "https://learn-arduino-red.vercel.app/ko/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/he/",
+      "to": "https://learn-arduino-red.vercel.app/og-image-he.png"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/he/",
+      "to": "https://learn-arduino-red.vercel.app/pt/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/he/",
+      "to": "https://learn-arduino-red.vercel.app/tr/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/he/",
+      "to": "https://learn-arduino-red.vercel.app/zh/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/hi/",
+      "to": "https://learn-arduino-red.vercel.app/apple-touch-icon.png"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/hi/",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-500-normal-G0uxJNrM.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/hi/",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-600-normal-BkLiAYu4.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/hi/",
+      "to": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/hi/",
+      "to": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/hi/",
+      "to": "https://learn-arduino-red.vercel.app/favicon.ico"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/hi/",
+      "to": "https://learn-arduino-red.vercel.app/favicon.svg"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/hi/",
+      "to": "https://learn-arduino-red.vercel.app/site.webmanifest"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/hi/",
+      "to": "https://learn-arduino-red.vercel.app/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/hi/",
+      "to": "https://learn-arduino-red.vercel.app/de/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/hi/",
+      "to": "https://learn-arduino-red.vercel.app/es/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/hi/",
+      "to": "https://learn-arduino-red.vercel.app/fr/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/hi/",
+      "to": "https://learn-arduino-red.vercel.app/he/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/hi/",
+      "to": "https://learn-arduino-red.vercel.app/hi/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/hi/",
+      "to": "https://learn-arduino-red.vercel.app/id/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/hi/",
+      "to": "https://learn-arduino-red.vercel.app/it/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/hi/",
+      "to": "https://learn-arduino-red.vercel.app/ja/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/hi/",
+      "to": "https://learn-arduino-red.vercel.app/ko/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/hi/",
+      "to": "https://learn-arduino-red.vercel.app/og-image-hi.png"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/hi/",
+      "to": "https://learn-arduino-red.vercel.app/pt/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/hi/",
+      "to": "https://learn-arduino-red.vercel.app/tr/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/hi/",
+      "to": "https://learn-arduino-red.vercel.app/zh/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/id/",
+      "to": "https://learn-arduino-red.vercel.app/apple-touch-icon.png"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/id/",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-500-normal-G0uxJNrM.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/id/",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-600-normal-BkLiAYu4.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/id/",
+      "to": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/id/",
+      "to": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/id/",
+      "to": "https://learn-arduino-red.vercel.app/favicon.ico"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/id/",
+      "to": "https://learn-arduino-red.vercel.app/favicon.svg"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/id/",
+      "to": "https://learn-arduino-red.vercel.app/site.webmanifest"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/id/",
+      "to": "https://learn-arduino-red.vercel.app/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/id/",
+      "to": "https://learn-arduino-red.vercel.app/de/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/id/",
+      "to": "https://learn-arduino-red.vercel.app/es/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/id/",
+      "to": "https://learn-arduino-red.vercel.app/fr/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/id/",
+      "to": "https://learn-arduino-red.vercel.app/he/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/id/",
+      "to": "https://learn-arduino-red.vercel.app/hi/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/id/",
+      "to": "https://learn-arduino-red.vercel.app/id/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/id/",
+      "to": "https://learn-arduino-red.vercel.app/it/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/id/",
+      "to": "https://learn-arduino-red.vercel.app/ja/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/id/",
+      "to": "https://learn-arduino-red.vercel.app/ko/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/id/",
+      "to": "https://learn-arduino-red.vercel.app/og-image-id.png"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/id/",
+      "to": "https://learn-arduino-red.vercel.app/pt/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/id/",
+      "to": "https://learn-arduino-red.vercel.app/tr/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/id/",
+      "to": "https://learn-arduino-red.vercel.app/zh/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/it/",
+      "to": "https://learn-arduino-red.vercel.app/apple-touch-icon.png"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/it/",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-500-normal-G0uxJNrM.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/it/",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-600-normal-BkLiAYu4.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/it/",
+      "to": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/it/",
+      "to": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/it/",
+      "to": "https://learn-arduino-red.vercel.app/favicon.ico"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/it/",
+      "to": "https://learn-arduino-red.vercel.app/favicon.svg"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/it/",
+      "to": "https://learn-arduino-red.vercel.app/site.webmanifest"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/it/",
+      "to": "https://learn-arduino-red.vercel.app/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/it/",
+      "to": "https://learn-arduino-red.vercel.app/de/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/it/",
+      "to": "https://learn-arduino-red.vercel.app/es/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/it/",
+      "to": "https://learn-arduino-red.vercel.app/fr/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/it/",
+      "to": "https://learn-arduino-red.vercel.app/he/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/it/",
+      "to": "https://learn-arduino-red.vercel.app/hi/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/it/",
+      "to": "https://learn-arduino-red.vercel.app/id/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/it/",
+      "to": "https://learn-arduino-red.vercel.app/it/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/it/",
+      "to": "https://learn-arduino-red.vercel.app/ja/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/it/",
+      "to": "https://learn-arduino-red.vercel.app/ko/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/it/",
+      "to": "https://learn-arduino-red.vercel.app/og-image-it.png"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/it/",
+      "to": "https://learn-arduino-red.vercel.app/pt/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/it/",
+      "to": "https://learn-arduino-red.vercel.app/tr/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/it/",
+      "to": "https://learn-arduino-red.vercel.app/zh/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ja/",
+      "to": "https://learn-arduino-red.vercel.app/apple-touch-icon.png"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ja/",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-500-normal-G0uxJNrM.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ja/",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-600-normal-BkLiAYu4.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ja/",
+      "to": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ja/",
+      "to": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ja/",
+      "to": "https://learn-arduino-red.vercel.app/favicon.ico"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ja/",
+      "to": "https://learn-arduino-red.vercel.app/favicon.svg"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ja/",
+      "to": "https://learn-arduino-red.vercel.app/site.webmanifest"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ja/",
+      "to": "https://learn-arduino-red.vercel.app/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ja/",
+      "to": "https://learn-arduino-red.vercel.app/de/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ja/",
+      "to": "https://learn-arduino-red.vercel.app/es/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ja/",
+      "to": "https://learn-arduino-red.vercel.app/fr/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ja/",
+      "to": "https://learn-arduino-red.vercel.app/he/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ja/",
+      "to": "https://learn-arduino-red.vercel.app/hi/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ja/",
+      "to": "https://learn-arduino-red.vercel.app/id/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ja/",
+      "to": "https://learn-arduino-red.vercel.app/it/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ja/",
+      "to": "https://learn-arduino-red.vercel.app/ja/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ja/",
+      "to": "https://learn-arduino-red.vercel.app/ko/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ja/",
+      "to": "https://learn-arduino-red.vercel.app/og-image-ja.png"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ja/",
+      "to": "https://learn-arduino-red.vercel.app/pt/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ja/",
+      "to": "https://learn-arduino-red.vercel.app/tr/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ja/",
+      "to": "https://learn-arduino-red.vercel.app/zh/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ko/",
+      "to": "https://learn-arduino-red.vercel.app/apple-touch-icon.png"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ko/",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-500-normal-G0uxJNrM.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ko/",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-600-normal-BkLiAYu4.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ko/",
+      "to": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ko/",
+      "to": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ko/",
+      "to": "https://learn-arduino-red.vercel.app/favicon.ico"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ko/",
+      "to": "https://learn-arduino-red.vercel.app/favicon.svg"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ko/",
+      "to": "https://learn-arduino-red.vercel.app/site.webmanifest"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ko/",
+      "to": "https://learn-arduino-red.vercel.app/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ko/",
+      "to": "https://learn-arduino-red.vercel.app/de/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ko/",
+      "to": "https://learn-arduino-red.vercel.app/es/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ko/",
+      "to": "https://learn-arduino-red.vercel.app/fr/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ko/",
+      "to": "https://learn-arduino-red.vercel.app/he/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ko/",
+      "to": "https://learn-arduino-red.vercel.app/hi/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ko/",
+      "to": "https://learn-arduino-red.vercel.app/id/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ko/",
+      "to": "https://learn-arduino-red.vercel.app/it/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ko/",
+      "to": "https://learn-arduino-red.vercel.app/ja/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ko/",
+      "to": "https://learn-arduino-red.vercel.app/ko/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ko/",
+      "to": "https://learn-arduino-red.vercel.app/og-image-ko.png"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ko/",
+      "to": "https://learn-arduino-red.vercel.app/pt/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ko/",
+      "to": "https://learn-arduino-red.vercel.app/tr/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/ko/",
+      "to": "https://learn-arduino-red.vercel.app/zh/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/pt/",
+      "to": "https://learn-arduino-red.vercel.app/apple-touch-icon.png"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/pt/",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-500-normal-G0uxJNrM.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/pt/",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-600-normal-BkLiAYu4.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/pt/",
+      "to": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/pt/",
+      "to": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/pt/",
+      "to": "https://learn-arduino-red.vercel.app/favicon.ico"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/pt/",
+      "to": "https://learn-arduino-red.vercel.app/favicon.svg"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/pt/",
+      "to": "https://learn-arduino-red.vercel.app/site.webmanifest"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/pt/",
+      "to": "https://learn-arduino-red.vercel.app/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/pt/",
+      "to": "https://learn-arduino-red.vercel.app/de/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/pt/",
+      "to": "https://learn-arduino-red.vercel.app/es/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/pt/",
+      "to": "https://learn-arduino-red.vercel.app/fr/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/pt/",
+      "to": "https://learn-arduino-red.vercel.app/he/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/pt/",
+      "to": "https://learn-arduino-red.vercel.app/hi/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/pt/",
+      "to": "https://learn-arduino-red.vercel.app/id/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/pt/",
+      "to": "https://learn-arduino-red.vercel.app/it/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/pt/",
+      "to": "https://learn-arduino-red.vercel.app/ja/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/pt/",
+      "to": "https://learn-arduino-red.vercel.app/ko/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/pt/",
+      "to": "https://learn-arduino-red.vercel.app/og-image-pt.png"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/pt/",
+      "to": "https://learn-arduino-red.vercel.app/pt/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/pt/",
+      "to": "https://learn-arduino-red.vercel.app/tr/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/pt/",
+      "to": "https://learn-arduino-red.vercel.app/zh/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/tr/",
+      "to": "https://learn-arduino-red.vercel.app/apple-touch-icon.png"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/tr/",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-500-normal-G0uxJNrM.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/tr/",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-600-normal-BkLiAYu4.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/tr/",
+      "to": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/tr/",
+      "to": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/tr/",
+      "to": "https://learn-arduino-red.vercel.app/favicon.ico"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/tr/",
+      "to": "https://learn-arduino-red.vercel.app/favicon.svg"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/tr/",
+      "to": "https://learn-arduino-red.vercel.app/site.webmanifest"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/tr/",
+      "to": "https://learn-arduino-red.vercel.app/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/tr/",
+      "to": "https://learn-arduino-red.vercel.app/de/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/tr/",
+      "to": "https://learn-arduino-red.vercel.app/es/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/tr/",
+      "to": "https://learn-arduino-red.vercel.app/fr/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/tr/",
+      "to": "https://learn-arduino-red.vercel.app/he/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/tr/",
+      "to": "https://learn-arduino-red.vercel.app/hi/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/tr/",
+      "to": "https://learn-arduino-red.vercel.app/id/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/tr/",
+      "to": "https://learn-arduino-red.vercel.app/it/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/tr/",
+      "to": "https://learn-arduino-red.vercel.app/ja/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/tr/",
+      "to": "https://learn-arduino-red.vercel.app/ko/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/tr/",
+      "to": "https://learn-arduino-red.vercel.app/og-image-tr.png"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/tr/",
+      "to": "https://learn-arduino-red.vercel.app/pt/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/tr/",
+      "to": "https://learn-arduino-red.vercel.app/tr/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/tr/",
+      "to": "https://learn-arduino-red.vercel.app/zh/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/zh/",
+      "to": "https://learn-arduino-red.vercel.app/apple-touch-icon.png"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/zh/",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-500-normal-G0uxJNrM.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/zh/",
+      "to": "https://learn-arduino-red.vercel.app/assets/barlow-semi-condensed-latin-600-normal-BkLiAYu4.woff2"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/zh/",
+      "to": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/zh/",
+      "to": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/zh/",
+      "to": "https://learn-arduino-red.vercel.app/favicon.ico"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/zh/",
+      "to": "https://learn-arduino-red.vercel.app/favicon.svg"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/zh/",
+      "to": "https://learn-arduino-red.vercel.app/site.webmanifest"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/zh/",
+      "to": "https://learn-arduino-red.vercel.app/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/zh/",
+      "to": "https://learn-arduino-red.vercel.app/de/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/zh/",
+      "to": "https://learn-arduino-red.vercel.app/es/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/zh/",
+      "to": "https://learn-arduino-red.vercel.app/fr/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/zh/",
+      "to": "https://learn-arduino-red.vercel.app/he/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/zh/",
+      "to": "https://learn-arduino-red.vercel.app/hi/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/zh/",
+      "to": "https://learn-arduino-red.vercel.app/id/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/zh/",
+      "to": "https://learn-arduino-red.vercel.app/it/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/zh/",
+      "to": "https://learn-arduino-red.vercel.app/ja/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/zh/",
+      "to": "https://learn-arduino-red.vercel.app/ko/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/zh/",
+      "to": "https://learn-arduino-red.vercel.app/og-image-zh.png"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/zh/",
+      "to": "https://learn-arduino-red.vercel.app/pt/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/zh/",
+      "to": "https://learn-arduino-red.vercel.app/tr/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/zh/",
+      "to": "https://learn-arduino-red.vercel.app/zh/"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/main-Bvl_zo-E.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/main-Bvl_zo-E.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/stage-QLKhHYHN.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/main-Bvl_zo-E.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/thumbs-DPauGRHu.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/main-Bvl_zo-E.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/index-CqDNWwLj.css"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/main-Bvl_zo-E.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/main-Bvl_zo-E.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/kit-DXbMhk_I.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/main-Bvl_zo-E.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/stage-QLKhHYHN.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/main-Bvl_zo-E.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/thumbs-DPauGRHu.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/stage-QLKhHYHN.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/stage-QLKhHYHN.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/kit-DXbMhk_I.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/stage-QLKhHYHN.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/main-Bvl_zo-E.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/thumbs-DPauGRHu.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/kit-DXbMhk_I.js"
+    },
+    {
+      "from": "https://learn-arduino-red.vercel.app/assets/kit-DXbMhk_I.js",
+      "to": "https://learn-arduino-red.vercel.app/assets/index-GGrOCNGj.js"
+    }
+  ],
+  "failures": [
+    {
+      "url": "https://learn-arduino-red.vercel.app/sw.js",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/locales/de.js",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/locales/es.js",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/locales/fr.js",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/locales/he.js",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/locales/hi.js",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/locales/id.js",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/locales/it.js",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/locales/ja.js",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/locales/ko.js",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/locales/pt.js",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/locales/tr.js",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://learn-arduino-red.vercel.app/assets/locales/zh.js",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ],
+  "excluded_references": [
+    "#",
+    "./locales/${t}.js",
+    "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='m7 10 5 5 5-5' fill='none' stroke='%2324304a' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E",
+    "https://x.com/DilumSanjaya"
+  ]
+}

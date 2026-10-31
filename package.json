@@ -1,0 +1,29 @@
+{
+  "name": "learn-arduino-preservation-reconstruction",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24 <25"
+  },
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 5230 --strictPort",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 5231 --strictPort",
+    "build:pages": "vite build --base=/learn-arduino/ --outDir=dist-pages",
+    "test": "node --test tests/*.test.mjs",
+    "test:capture": "python3 -m unittest discover -s tests -p 'test_*.py'",
+    "reconstruct": "node scripts/reconstruct.mjs",
+    "verify:source": "node scripts/reconstruct.mjs --check",
+    "preserve:serve": "python3 scripts/serve-preserved.py --port 5232",
+    "verify:pages": "node scripts/verify-build.mjs dist-pages /learn-arduino/"
+  },
+  "devDependencies": {
+    "vite": "8.3.5",
+    "prettier": "3.9.10",
+    "@babel/parser": "7.28.5",
+    "@babel/traverse": "7.28.5",
+    "@babel/generator": "7.28.5",
+    "@babel/types": "7.28.5"
+  }
+}

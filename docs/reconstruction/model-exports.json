@@ -1,0 +1,210 @@
+{
+  "createGears": {
+    "originalBinding": "nl",
+    "recoveredExport": "C"
+  },
+  "createArduinoUno": {
+    "originalBinding": "Dc",
+    "recoveredExport": "ut"
+  },
+  "createBreadboard": {
+    "originalBinding": "zc",
+    "recoveredExport": "h"
+  },
+  "createPianoKey": {
+    "originalBinding": "Bc",
+    "recoveredExport": "Q"
+  },
+  "createLed": {
+    "originalBinding": "Vc",
+    "recoveredExport": "O"
+  },
+  "createResistor": {
+    "originalBinding": "Uc",
+    "recoveredExport": "R"
+  },
+  "createResistorByValue": {
+    "originalBinding": "il",
+    "recoveredExport": "z"
+  },
+  "createJumperWire": {
+    "originalBinding": "qc",
+    "recoveredExport": "E"
+  },
+  "createFlatJumperWire": {
+    "originalBinding": "Jc",
+    "recoveredExport": "x"
+  },
+  "createUltrasonicSensor": {
+    "originalBinding": "Yc",
+    "recoveredExport": "ot"
+  },
+  "createDcMotor": {
+    "originalBinding": "Xc",
+    "recoveredExport": "k"
+  },
+  "createMotorStand": {
+    "originalBinding": "Zc",
+    "recoveredExport": "A"
+  },
+  "createTransistor": {
+    "originalBinding": "Qc",
+    "recoveredExport": "it"
+  },
+  "createTrafficLight": {
+    "originalBinding": "$c",
+    "recoveredExport": "rt"
+  },
+  "createObstacle": {
+    "originalBinding": "dl",
+    "recoveredExport": "j"
+  },
+  "createPushButton": {
+    "originalBinding": "fl",
+    "recoveredExport": "I"
+  },
+  "createPotentiometer": {
+    "originalBinding": "pl",
+    "recoveredExport": "N"
+  },
+  "createBuzzer": {
+    "originalBinding": "ml",
+    "recoveredExport": "g"
+  },
+  "createServo": {
+    "originalBinding": "hl",
+    "recoveredExport": "H"
+  },
+  "createRgbLed": {
+    "originalBinding": "yl",
+    "recoveredExport": "B"
+  },
+  "createLightSensor": {
+    "originalBinding": "xl",
+    "recoveredExport": "D"
+  },
+  "createDeskLamp": {
+    "originalBinding": "wl",
+    "recoveredExport": "v"
+  },
+  "createTemperatureSensor": {
+    "originalBinding": "El",
+    "recoveredExport": "nt"
+  },
+  "createHairdryer": {
+    "originalBinding": "kl",
+    "recoveredExport": "w"
+  },
+  "createFan": {
+    "originalBinding": "Nl",
+    "recoveredExport": "_"
+  },
+  "createStepperDriver": {
+    "originalBinding": "Fl",
+    "recoveredExport": "at"
+  },
+  "createStepper": {
+    "originalBinding": "Hl",
+    "recoveredExport": "F"
+  },
+  "createStepperCable": {
+    "originalBinding": "Ul",
+    "recoveredExport": "V"
+  },
+  "createPlant": {
+    "originalBinding": "Zl",
+    "recoveredExport": "P"
+  },
+  "createSoilProbe": {
+    "originalBinding": "eu",
+    "recoveredExport": "Y"
+  },
+  "createOled": {
+    "originalBinding": "nu",
+    "recoveredExport": "M"
+  },
+  "createWateringCan": {
+    "originalBinding": "du",
+    "recoveredExport": "st"
+  },
+  "createForceSensor": {
+    "originalBinding": "hu",
+    "recoveredExport": "S"
+  },
+  "createStrengthMeter": {
+    "originalBinding": "yu",
+    "recoveredExport": "X"
+  },
+  "createWeights": {
+    "originalBinding": "Ou",
+    "recoveredExport": "ct"
+  },
+  "disposeOriginalModel": {
+    "originalBinding": "Oc",
+    "recoveredExport": "y"
+  },
+  "updatePlant": {
+    "originalBinding": "Ql",
+    "recoveredExport": "q"
+  },
+  "updateOled": {
+    "originalBinding": "iu",
+    "recoveredExport": "b"
+  },
+  "updateLamp": {
+    "originalBinding": "Tl",
+    "recoveredExport": "m"
+  },
+  "updateHairdryer": {
+    "originalBinding": "Al",
+    "recoveredExport": "W"
+  },
+  "tickHairdryer": {
+    "originalBinding": "jl",
+    "recoveredExport": "tt"
+  },
+  "updateStepperDriver": {
+    "originalBinding": "Il",
+    "recoveredExport": "U"
+  },
+  "updateRgbColour": {
+    "originalBinding": "bl",
+    "recoveredExport": "J"
+  },
+  "updateLedColour": {
+    "originalBinding": "vl",
+    "recoveredExport": "G"
+  },
+  "tickWateringCan": {
+    "originalBinding": "fu",
+    "recoveredExport": "et"
+  },
+  "updateStrengthMeter": {
+    "originalBinding": "bu",
+    "recoveredExport": "K"
+  },
+  "ringStrengthBell": {
+    "originalBinding": "xu",
+    "recoveredExport": "Z"
+  },
+  "tickStrengthBell": {
+    "originalBinding": "Su",
+    "recoveredExport": "$"
+  },
+  "breadboardHole": {
+    "originalBinding": "Mc",
+    "recoveredExport": "T"
+  },
+  "breadboardDimensions": {
+    "originalBinding": "jc",
+    "recoveredExport": "t"
+  },
+  "pinPitch": {
+    "originalBinding": "J",
+    "recoveredExport": "c"
+  },
+  "potDimensions": {
+    "originalBinding": "Wl",
+    "recoveredExport": "l"
+  }
+}
